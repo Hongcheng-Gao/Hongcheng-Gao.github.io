@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Hongcheng-Gao.github.io</id>
     <title>Hongcheng Gao</title>
-    <updated>2022-01-18T12:41:45.680Z</updated>
+    <updated>2022-01-18T12:43:04.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Hongcheng-Gao.github.io"/>
     <link rel="self" href="https://Hongcheng-Gao.github.io/atom.xml"/>
@@ -11,12 +11,15 @@
     <icon>https://Hongcheng-Gao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Hongcheng Gao</rights>
     <entry>
-        <title type="html"><![CDATA[Hongchneg Gao]]></title>
+        <title type="html"><![CDATA[Hongcheng Gao]]></title>
         <id>https://Hongcheng-Gao.github.io/post/hongcheng-gao.github.io/</id>
         <link href="https://Hongcheng-Gao.github.io/post/hongcheng-gao.github.io/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>I am a undergraduate. candidate in Department of Computer Science and Technology at Chongqing University.  My research interests lie in the intersection of natural language processing and deep learning.</p>
+]]></summary>
         <content type="html"><![CDATA[<p>I am a undergraduate. candidate in Department of Computer Science and Technology at Chongqing University.  My research interests lie in the intersection of natural language processing and deep learning.</p>
+<!-- more -->
 ]]></content>
     </entry>
 </feed>

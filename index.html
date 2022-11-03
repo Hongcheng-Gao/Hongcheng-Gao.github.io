@@ -1,144 +1,572 @@
+
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" >
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Shirley Wu's Homepage</title>
 
-<title>Hongcheng Gao</title>
+<!--
 
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+Sentra Template
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://Hongcheng-Gao.github.io/favicon.ico?v=1642559444143">
-<link rel="stylesheet" href="https://Hongcheng-Gao.github.io/styles/main.css">
+https://templatemo.com/tm-518-sentra
 
+-->
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="apple-touch-icon" href="img/photo.jpg"> -->
+    <link rel="shortcut icon" href="img/head.jpg">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="css/fontAwesome.css">
+    <link rel="stylesheet" href="css/light-box.css">
+    <link rel="stylesheet" href="css/owl-carousel.css">
+    <link rel="stylesheet" href="css/templatemo-style.css">
 
-
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-
-
-
-    <meta name="description" content="gaohongcheng2000@gmail.com">
-    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,700&family=Lato:wght@100;300;400;700;900&family=Merriweather:wght@700&family=PT+Serif:ital,wght@1,700&family=Playfair+Display:wght@400;600&family=Ubuntu:wght@700&family=Vollkorn:wght@400;500;600&display=swap" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet"> -->
+    <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
   </head>
-  <body>
-    <div id="app" class="main">
 
-      <div class="sidebar" :class="{ 'full-height': menuVisible }">
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="https://Hongcheng-Gao.github.io">
-        <img src="https://Hongcheng-Gao.github.io/images/avatar.png?v=1642559444143" class="site-logo">
-        <h1 class="site-title">Hongcheng Gao</h1>
-      </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
+<body>
+
+
+
+    <header class="nav-down responsive-nav hidden-lg hidden-md">
+      <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <!--/.navbar-header-->
+      <div id="main-nav" class="collapse navbar-collapse">
+        <nav>
+          <ul class="nav navbar-nav">
+            <li><a href="#aboutme">About Me</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#featured">Featured</a></li>
+            <li><a href="#projects">Recent Projects</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a href="#video">Presentation</a></li>
+            <li><a href="#blog">Research Topics</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+          </ul>
+        </nav>
       </div>
+    </header>
+
+    <div class="sidebar-navigation hidde-sm hidden-xs">
+      <div class="logo">
+        <img src="img/photo_3.jpg">
+      </div>
+      <nav>
+        <ul>
+          <li>
+            <a href="#aboutme">
+              <span class="rect"></span>
+              <span class="circle"></span>
+              About Me
+            </a>
+          </li>
+          <li>
+            <a href="#news">
+              <span class="rect"></span>
+              <span class="circle"></span>
+              What's New
+            </a>
+          </li>
+          <li>
+            <a href="#blog">
+              <span class="rect"></span>
+              <span class="circle"></span>
+              Research Topics
+            </a>
+          </li>
+          <li>
+            <a href="#featured">
+              <span class="rect"></span>
+              <span class="circle"></span>
+              Experience
+            </a>
+          </li>
+          <li>
+            <a href="#services">
+              <span class="rect"></span>
+              <span class="circle"></span>
+              Services
+            </a>
+          </li>
+          <li>
+            <a href="#thoughts">
+              <span class="rect"></span>
+              <span class="circle"></span>
+              Thoughts
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <ul class="social-icons">
+        <!-- <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="#"><i class="fa fa-google"></i></a></li>
+        <li><a href="#"><i class="fa fa-github"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
+      </ul>
     </div>
-    <div>
-      
-        
-          <a href="/aboutme" class="site-nav">
-            Abot Me
-          </a>
-        
-      
-        
-          <a href="\news" class="site-nav">
-            News
-          </a>
-        
-      
-        
-          <a href="/publications" class="site-nav">
-            Publications
-          </a>
-        
-      
-        
-          <a href="/project" class="site-nav">
-            Project
-          </a>
-        
-      
-        
-          <a href="/post/service" class="site-nav">
-            Service
-          </a>
-        
-      
-    </div>
-  </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-    <div class="site-description">
-      gaohongcheng2000@gmail.com
-    </div>
-    <div class="site-footer">
-      Chongqing University | <a class="rss" href="https://Hongcheng-Gao.github.io/atom.xml" target="_blank">RSS</a>
-    </div>
-  </div>
-</div>
 
 
-      <div class="main-container">
-        <div class="content-container" data-aos="fade-up">
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://Hongcheng-Gao.github.io/post/ghc/">
-                  <h2 class="post-title">Hongcheng Gao</h2>
-                </a>
-                <div class="post-date">
-                  2018-12-12
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-
-          <div class="pagination-container">
-  
-  
-</div>
-
+    <div class="page-content">
+      <section id="aboutme" class="content-section">
+        <div class="section-heading">
+          <h1>&emsp;&emsp;&emsp;Shirley Wu</h1>
         </div>
-      </div>
+        <div class="section-content">
+          <p>Hongcheng Gao is a foruth-year undergraduate student in Computer Science at <a href="https://cqu.edu.cn/">Chingqing University</a>.
+            In my undergraduate years, I was a research intern at THUNLP, advised by Prof. Zhiyuan Liu.  Also, I am delighted to work with Prof. Zhijie Deng and Dr.Yue Cao.
+          <p>
+            He work on natural language processing and machine learning. My research interest lies in developing trustworthy and efficient NLP models. My research directions are: (1) Trustworthy applications of NLP models, considering security, robustness, interpretability, and calibration; (2) The sample efficiency and parameter efficiency of NLP models; (3) Multi-modal learning, considering pretraining, reasoning, and planning. </p>
+          <p> 
+            &emsp;&emsp;
+            <!-- &emsp;&emsp; -->
+            <!-- <i class="fa fa-user"></i><a href="https://github.com/Wuyxin"> CV</a>       -->
+            <i class="fa fa-github"></i><a href="https://github.com/Wuyxin"> GitHub</a>&emsp;&emsp;&emsp;&emsp;
+            <i class="fa fa-google"></i><a href="https://scholar.google.com.hk/citations?user=pF5p7_IAAAAJ&hl=zh-CN"> Scholar</a>&emsp;&emsp;&emsp;&emsp;
+            <i class="fa fa-twitter"></i><a href="https://twitter.com/GaoHongcheng"> Twitter</a>&emsp;&emsp;&emsp;&emsp;     
+            <i class="fa fa-envelope"></i> Gmail: gaohongcheng2000 
+          </p>
+        </div>
+      </section>
+      <section id="news" class="content-section">
+        <div class="section-heading">
+          <h1>What's<br><em>New</em></h1>
+          <p>[June 2022] Awarded as Outstanding Graduate in USTC & Anhui Province (< 3%)!! <br>
+          [May 2022] One paper is accepted by TPAMI and another is accepted by ICML!</p>
+        </div>
+      </section>
+      <section id="blog" class="content-section">
+        <div class="section-heading">
+          <h1>Research<br><em>Topics</em></h1>
+          <pp>Excited to explore more! </pp>
+        </div>
+        <div class="section-content">
+          <div class="tabs-content">
+            <div class="wrapper">
+              <ul class="tabs clearfix" data-tabgroup="first-tab-group">
+                <li><a href="#tab1" class="active">Explainability</a></li>
+                <li><a href="#tab2">GNN Generalization</a></li>
+                <li><a href="#tab4">Knowledge Graphs</a></li>
+                <li><a href="#tab3">Auto Machine Learning</a></li>
+              </ul>
+              <section id="first-tab-group" class="tabgroup">
+                <div id="tab1">
+                  <ul>
+                    <li>
+                      <div class="item">
+                        <img src="img/dse.jpg" alt="">
+                        <div class="text-content">
+                          <h4>Deconfounding to Explanation Evaluation in Graph Neural Networks </h4>
+                          <span><w style="color:rgb(161, 0, 0);"> <b>Preprint.</b></w><br>
+                            <w style="color:rgb(0, 0, 0);"><b>Ying-Xin Wu</b>, Xiang Wang, An Zhang, Xia Hu, Fuli Feng, Xiangnan He, Tat-Seng Chua</w></span>
+                            <p><b>What</b>: A new paradigm to evaluate GNN explanations.<br>
+                              <b>Why evaluation</b>: Explanations evaluation fundamentally guides the diretion of GNNs explainability.<br>
+                              <b>Insight</b>: Removal-based evaluation hardly reflects the true importance of explanations. <br>
+                              <b>Results</b>: More faithful ranking of different explanations and explanatory methods.</p>
+                          <div class="accent-button">
+                            <a href="https://arxiv.org/abs/2201.08802" target="_blank" class="button">Paper</a>
+                            <a href="https://anonymous.4open.science/r/DSE-24BC/" target="_blank" class="button">Code</a>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <!-- <li>
+                      <div class="item">
+                        <img src="img/dir.jpg" alt="">
+                        <div class="text-content">
+                          <h4>Discovering Invariant Rationales for Graph Neural Networks</h4>
+                          <span>
+                            <w style="color:rgb(161, 0, 0);"> ICLR. March 2022.</w><br>
+                            <w style="color:rgb(0, 0, 0);"><b>Ying-Xin Wu</b>, Xiang Wang, An Zhang, Xiangnan He, Tat-Seng Chua.</w>
+                          </span>
+                          <p>We propose one novel objective which identifies causal features that are invariant
+                            under any interventional distributions, thus pursuing intrinsic interpretable GNNs 
+                            that are robust and generalizable to out-of-distribution datasets. </p>
+                          <div class="accent-button">
+                            <a href="https://arxiv.org/abs/2201.12872" target="_blank" class="button">Paper</a>
+                            <a href="https://github.com/Wuyxin/DIR-GNN" target="_blank" class="button">Code</a>
+                          </div>
+                        </div>
+                      </div>
+                    </li> -->
+                    <li>
+                      <div class="item">
+                        <img src="img/refine.png" alt="">
+                        <div class="text-content">
+                          <h4>Towards Multi-Grained Explainability for Graph Neural Networks</h4>
+                          <span><w style="color:rgb(161, 0, 0);"> <b>NeurIPS 2021.</b></w><br>
+                            <w style="color:rgb(0, 0, 0);">Xiang Wang, <b>Ying-Xin Wu</b>, An Zhang, Xiangnan He, Tat-Seng Chua.</w></span>
+                          <p><b>What</b>: ReFine, a two-step explainer.<br>
+                            <b>How</b>: It generates multi-grained explanations via pre-training and fine-tuning. <br>
+                            <b>Results</b>: Obtain both global (for a group) and local explanations (for an instance).</p>
+                          <!-- <p>We exploit the pre-training and fine-tuning idea to develop an explainer that generates multi-grained explanations, 
+                            i.e., global patterns for a group or local patterns for an instance's prediction. </p> -->
+                          <div class="accent-button">
+                            <a href="https://papers.nips.cc/paper/2021/hash/99bcfcd754a98ce89cb86f73acc04645-Abstract.html" target="_blank" class="button">Paper</a>
+                            <a href="https://github.com/Wuyxin/ReFine" target="_blank" class="button">Code</a>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="item">
+                        <img src="img/rc-explainer.jpg" alt="">
+                        <div class="text-content">
+                          <h4>Reinforced Causal Explainer for Graph Neural Networks</h4>
+                          <span>
+                            <w style="color:rgb(161, 0, 0);"> <b>TPAMI. May 2022.</b></w><br>
+                            <w style="color:rgb(0, 0, 0);">Xiang Wang, <b>Ying-Xin Wu</b>, An Zhang, Fuli Feng, Xiangnan He & Tat-Seng Chua.</w>
+                          </span>
+                          <p>
+                            <b>What</b>: Reinforced Causal Explainer (RC-Explainer).<br>
+                            <b>How</b>: It frames an explanatory subgraph via successively adding edges using a policy network. <br>
+                            <b>Results</b>: Faithful and concise explanations.</p>
+                          <div class="accent-button">
+                            <a href="https://arxiv.org/pdf/2204.11028.pdf" target="_blank" class="button">Paper</a>
+                            <a href="https://github.com/xiangwang1223/reinforced_causal_explainer" target="_blank" class="button">Code</a>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+                <div id="tab2">
+                  <ul>
+                    <li>
+                      <div class="item">
+                        <img src="img/dir.jpg" alt="">
+                        <div class="text-content">
+                          <h4>Discovering Invariant Rationales for Graph Neural Networks</h4>
+                          <span>
+                            <w style="color:rgb(161, 0, 0);"> <b>ICLR 2022.</b></w><br>
+                            <w style="color:rgb(0, 0, 0);"><b>Ying-Xin Wu</b>, Xiang Wang, An Zhang, Xiangnan He, Tat-Seng Chua.</w>
+                          </span>
+                          <p>
+                            <b>What</b>: An invariant learning paradigm/objective for GNNs.<br>
+                            <b>How</b>: We construct interventional distributions as "multiple eyes" to discover the features that make the label invariant, that is, causal features.<br>
+                            <b>Results</b>: Intrinsic interpretable GNNs that are robust and generalizable to OOD datasets. </p>
+                          <div class="accent-button">
+                            <a href="https://arxiv.org/abs/2201.12872" target="_blank" class="button">Paper</a>
+                            <a href="https://github.com/Wuyxin/DIR-GNN" target="_blank" class="button">Code</a>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="item">
+                        <img src="img/rgcl2.jpg" alt="">
+                        <div class="text-content">
+                          <h4>Let Invariant Rationale Discovery Inspire Graph Contrastive Learning</h4>
+                          <span>
+                            <w style="color:rgb(161, 0, 0);"> <b>ICML 2022.</b></w><br>
+                            <w style="color:rgb(0, 0, 0);">Sihang Li, Xiang Wang, An Zhang, <b>Ying-Xin Wu</b>, Xiangnan He and Tat-Seng Chua</w>
+                          </span>
+                          <p>
+                            <b>What</b>: A graph contrastive learning (GCL) method with model rationales.<br>
+                            <b>How</b>: Design a rationality scheme to generate rationale-aware graphs for contrastive learning.<br>
+                            <b>Results</b>: Better performance and transferability. </p>
+                          <div class="accent-button">
+                            <a href="https://arxiv.org/pdf/2206.07869.pdf" target="_blank" class="button">Paper</a>
+                            <a href="https://github.com/lsh0520/RGCL" target="_blank" class="button">Code</a>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+                <div id="tab3">
+                  <ul>
+                    <li>
+                      <div class="item">
+                        <img src="img/blog_2.jpg" alt="">
+                        <div class="text-content">
+                          <h4>Paper under review. 
+                            <p>with 
+                              <a href="https://cs.stanford.edu/people/rexy/">Rex</a> 
+                              , <a href="https://cs.stanford.edu/people/jiaxuan/">Jiaxuan</a> 
+                              & <a href="https://cs.stanford.edu/people/jure/">Jure</a> 
+                            </p> 
+                          </h4>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+                <div id="tab4">
+                  <ul>
+                    <li>
+                      <div class="item">
+                        <img src="img/kgml.jpg" alt="">
+                        <div class="text-content">
+                          <h4>Knowledge-Aware Meta-learning for Low-Resource Text Classification</h4>
+                          <span>
+                            <w style="color:rgb(161, 0, 0);"> <b>EMNLP (Oral) 2021.</b> Short Paper.</w><br>
+                            <w style="color:rgb(0, 0, 0);">Huaxiu Yao, <b>Ying-Xin Wu</b>, Maruan Al-Shedivat, Eric P. Xing.</w>
+                          </span>
+                          <p> 
+                            <b>What</b>: A meta-learning algorithm for low-resource text classification problem.<br>
+                            <b>How</b>: We extract sentence-specific graphs from knowledge graph to boost represnetation learning.<br>
+                            <b>Results</b>: Better generalization between meta-training and meta-testing tasks.</p>
+                          <div class="accent-button">
+                            <a href="https://arxiv.org/abs/2109.04707" target="_blank" class="button">Paper</a>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="featured" class="content-section">
+        <div class="section-heading">
+          <h1>Personal<br><em>Experiences</em></h1>
+          <pp>By reversed time order.</pp>
+        </div>
+        <div class="section-content">
+          <div class="owl-carousel owl-theme">
+            <div class="item">
+              <div class="image">
+                <img src="img/Stanford.jpg" alt="">
+                <!-- <div class="featured-button button">
+                  <a href="#projects">Continue Reading</a>
+                </div> -->
+              </div>
+              <div class="text-content">
+                <h4>Stanford University</h4>
+                <span>2022.9 - Present</span><br>
+                <p>I am a first-year Ph.D. at <a href="https://ai.stanford.edu/">Stanford Artificial Intelligence Laboratory (SAIL)</a>. 
+                  I am rotating with <a href="https://www.james-zou.com/">Prof. James Zou</a> this fall quarter.
+                </p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="image">
+                <img src="img/USTC.jpg" alt="">
+                <!-- <div class="featured-button button">
+                  <a href="#projects">Continue Reading</a>
+                </div> -->
+              </div>
+              <div class="text-content">
+                <h4>Univ. of Science & Technology of China</h4>
+                <span>2018.9 - 2022.7 </span><br>
+                <span>Advisor: <a href="http://staff.ustc.edu.cn/~hexn/">Prof. Xiangnan He</a></span>
+                <p>
+                  I am lucky to follow Xiangnan who highly promotes me to go for professional competence.
+                </p>
+                <p>
+                  <w style="color:rgb(161, 0, 0);">Rank: 1/28 | GPA: 4.03/4.3 (92.4/100)</w>
+                </p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="image">
+                <img src="img/nus2.jpg" alt="">
+                <!-- <div class="featured-button button">
+                  <a href="#projects">Continue Reading</a>
+                </div> -->
+              </div>
+              <div class="text-content">
+                <h4>National University of Singapore</h4>
+                <span>2020.3 - 2021.12</span> 
+                <span>Advisor: <a href="https://xiangwang1223.github.io/">Dr. Xiang Wang</a> &
+                  <a href="https://www.chuatatseng.com/"> Prof. Tat-Seng Chua</a> </span>
+                <p> 
+                  This experience strengthens my problem-solving and communication skills and broadens my research horizons.
+                </p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="image">
+                <img src="img/Stanford.jpg" alt="">
+                <!-- <div class="featured-button button">
+                  <a href="#projects">Continue Reading</a>
+                </div> -->
+              </div>
+              <div class="text-content">
+                <h4>Stanford University</h4>
+                <span>2021.3 - 2021.8</span><br>
+                <span>Advisor: <a href="https://huaxiuyao.mystrikingly.com/"> Dr. Huaxiu Yao</a></span>
+                <p>
+                  I also collaborated with Huaxiu about Meta-learning and Knowledge Graph.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="services" class="content-section">
+        <div class="section-heading">
+          <h1>Services</h1>
+        </div>
+        <div class="section-content">
+          <p><w style="color:rgb(0, 0, 0);">Reviewer</w>: ICML'22, NeurIPS'22, NeurIPS'22 Workshop GLFrontiers.</p>
+        </div>
+      </section>
+      <section id="thoughts" class="content-section">
+        <div class="section-heading">
+          <h1>Research<br><em>Thoughts</em></h1>
+          <pp>Sometimes I write some casual thoughts here.  Feel free to email for any discussions!</pp>
+        </div>
+        <div class="section-content">
+            <p>
+              Explanations can make deep models more trustworthy. (x) <br>
+              Explanations can make deep models more transparent, unbiased model can make themselves more trustworthy. (√)
+            </p>
+            <p>
+              Explanations using concepts are less ambiguous, since they require more accurate specification of salient features, e.g., texture/color/shape for images, than visualization, which has multiple ways to interpret. 
+            </p>
+        </div>
+      </section>
+      <section id="miscellaneous" class="content-section">
+        <div class="section-heading">
+          <h1>Miscellaneous</em></h1>
+          <p></p>
+        </div>
+        <div class="section-content">
+          <p>I learn <a href="https://en.wikipedia.org/wiki/Chinese_calligraphy">chinese calligraphy</a> following <a href="http://m.yszvv.com/shufajia/19974.html">Mr. Congming Zhang</a>.
+          <p>I enjoy extreme sports like rock climbing and bungee jumping. I've never tried skydive but I am always seeking opportunities.</p>
+          <p>A link to my BF: <a href="https://rabbitwhite1.github.io/">Hank Wang</a>.</p>
+          <p></p>
+        </div>
+      </section>
+      <!-- <section id="video" class="content-section">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-heading">
+                    <h1>This is a <em>company</em> presentation.</h1>
+                    <p>Praesent pellentesque efficitur magna, sed pellentesque neque malesuada vitae.</p>
+                </div>
+                <div class="text-content">
+                    <p>In eget ipsum sed lorem vehicula luctus. Curabitur non dolor rhoncus, hendrerit justo sit amet, vestibulum turpis. Pellentesque id auctor tellus, vel ultricies augue. Duis condimentum aliquet blandit. Fusce rhoncus et eros ut pharetra. Phasellus convallis ultricies ligula ac gravida.</p>
+                </div>
+            </div>
+        </div>
+      </section> -->
+      <!-- <section id="contact" class="content-section">
+        <div id="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1197183.8373802372!2d-1.9415093691103689!3d6.781986417238027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdb96f349e85efd%3A0xb8d1e0b88af1f0f5!2sKumasi+Central+Market!5e0!3m2!1sen!2sth!4v1532967884907" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+        <div id="contact-content">
+            <div class="section-heading">
+                <h1>Quick<br><em>Contact</em></h1>
+                <p>Feel free to contact me regarding any problem, <br>e.g., research work or collaborations.<br></p>
+                
+            </div>
+            <div class="section-content">
+                <form id="contact" action="#" method="post">
+                    <div class="row">
+                        <div class="col-md-4">
+                          <fieldset>
+                            <input name="name" type="text" class="form-control" id="name" placeholder="Your name..." required="">
+                          </fieldset>
+                        </div>
+                        <div class="col-md-4">
+                          <fieldset>
+                            <input name="email" type="email" class="form-control" id="email" placeholder="Your email..." required="">
+                          </fieldset>
+                        </div>
+                         <div class="col-md-4">
+                          <fieldset>
+                            <input name="subject" type="text" class="form-control" id="subject" placeholder="Subject..." required="">
+                          </fieldset>
+                        </div>
+                        <div class="col-md-12">
+                          <fieldset>
+                            <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your message..." required=""></textarea>
+                          </fieldset>
+                        </div>
+                        <div class="col-md-12">
+                          <fieldset>
+                            <button type="submit" id="form-submit" class="btn">Send Message Now</button>
+                          </fieldset>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+      </section>       -->
+      
+      <!-- <section id="contact" class="content-section">
+        <div class="section-heading">
+          <h1>Location</em></h1>
+        </div>
+        <div id="map">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3389.419540413664!2d117.25651086740905!3d31.840796963188897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35cb614fb22cdac7%3A0x18c4d880b7b0c56a!2z5Lit5Zu95a6J5b6955yB5ZCI6IKl5biC6JyA5bGx5Yy65Lit5Zu956eR5a2m5oqA5pyv5aSn5a2m6KW_5qCh5Yy677yN56eR5oqA5a6e6aqM5qW8IOmCruaUv-e8lueggTogMjMwMDM5!5e0!3m2!1szh-CN!2shk!4v1648980979164!5m2!1szh-CN!2shk" width=90% height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </section> -->
+      <section class="footer">
+        
+        <p><font size="1">Copyright &copy; 2022  Hank Wang & Shirley Wu</font></p>
+      </section>
     </div>
 
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script type="application/javascript">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 
-AOS.init();
+  <script src="js/vendor/bootstrap.min.js"></script>
 
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
 
-</script>
+  <script>
+    // Hide Header on on scroll down
+    var didScroll;
+    var lastScrollTop = 0;
+    var delta = 5;
+    var navbarHeight = $('header').outerHeight();
 
+    $(window).scroll(function(event){
+      didScroll = true;
+    });
 
+    setInterval(function() {
+      if (didScroll) {
+        hasScrolled();
+        didScroll = false;
+      }
+    }, 250);
 
+    function hasScrolled() {
+      var st = $(this).scrollTop();
 
+      // Make sure they scroll more than delta
+      if(Math.abs(lastScrollTop - st) <= delta)
+        return;
 
+      // If they scrolled down and are past the navbar, add class .nav-up.
+      // This is necessary so you never see what is "behind" the navbar.
+      if (st > lastScrollTop && st > navbarHeight){
+        // Scroll Down
+        $('header').removeClass('nav-down').addClass('nav-up');
+      } else {
+        // Scroll Up
+        if(st + $(window).height() < $(document).height()) {
+          $('header').removeClass('nav-up').addClass('nav-down');
+        }
+      }
 
-  </body>
+      lastScrollTop = st;
+    }
+  </script>
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+
+</body>
 </html>

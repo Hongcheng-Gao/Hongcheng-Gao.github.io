@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hongcheng Gao"
-description              : "Undergrad at CQU, interested in trustworthy ML/NLP."
+description              : "Incoming MS of UCAS, interested in trustworthy ML/NLP."
 repository               : "https://github.com/Hongcheng-Gao"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hongcheng Gao"
   avatar           : "images/ghc.png"
-  bio              : "Undergrad at CQU, interested in trustworthy ML/NLP"
+  bio              : "gaohongcheng2000@gmail.com""
   location         : "Chongqing, China"
   employer         :
   pubmed           : 

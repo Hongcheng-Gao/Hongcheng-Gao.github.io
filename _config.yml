@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hongcheng gao"
+title                    : "Hongcheng Gao"
 description              : "Undergrad at CQU, interested in trustworthy ML/NLP."
 repository               : "https://github.com/Hongcheng-Gao"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hongcheng Gao"
-  avatar           : "images/ghc.jpg"
+  avatar           : "images/ghc.jpeg"
   bio              : "Undergrad at CQU, interested in trustworthy ML/NLP"
   location         : "Chongqing, China"
   employer         :

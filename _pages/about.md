@@ -17,18 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hongcheng Gao(高鸿成) is a fourth-year undergraduate student in Computer Science at <a href="https://cqu.edu.cn/">Chongqing University</a>. 
-In his undergraduate years, He was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>.  He also worked with <a href="https://thudzj.github.io">Prof. Zhijie Deng</a>(<a href="https://www.sjtu.edu.cn">SJTU</a>) and <a href="https://people.eecs.berkeley.edu/~hao/">Dr.Hao Zhang</a>(<a href="https://www.berkeley.edu">UC Berkeley</a>).
+<p>Hongcheng Gao(高鸿成) is a fourth-year undergraduate student in Computer Science at <a href="https://cqu.edu.cn/">Chongqing University</a>. 
+In his undergraduate years, He was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>.  He also worked with <a href="https://thudzj.github.io">Prof. Zhijie Deng</a>(<a href="https://www.sjtu.edu.cn">SJTU</a>) and <a href="https://people.eecs.berkeley.edu/~hao/">Prof.Hao Zhang</a>(<a href="https://www.berkeley.edu">UC Berkeley</a>).
 <br>
-His research interests lie in trustworthy NLP, large language modeling and multi-modal learning.
-<br>
-
+His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning</strong>.
+<br></p>
 
 
 # 🔥 News
-- *2023.05*: One paper is accepted to ACL 2023!
-- *2022.10*: Two papers are accepted by EMNLP2022!
-- *2022.08*: One paper is accepted by NAACL2022!
+- *2023.05*: 🎉One paper is accepted to ACL 2023!
+- *2022.10*: 🎉Two papers are accepted by EMNLP2022!
+- *2022.08*: 🎉One paper is accepted by NAACL2022!
 <!-- - *2022.06*: &nbsp;🎉🎉 Our textual backdoor learning toolkit *OpenBackdoor* has been released. Please check out [here](https://github.com/thunlp/OpenBackdoor)! -->
 
 
@@ -63,7 +62,7 @@ Zhijie Deng\*, *<u>Hongcheng Gao*</u>*, Yibo Miao, Hao Zhang
 **2023**
 
 - **From Adversarial Arms Race to Model-centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework** [\[Paper\]](https://arxiv.org/abs/2305.18503)<br>
-Yangyi Chen\*, *<u>Hongcheng Gao\*</u>*, Ganqu Cui\*, Lifan Yuan, Dehan Kong, Hanlu Wu, Ning Shi, Bo Yuan, Longtao Huang, Hui Xue, Zhiyuan Liu, Maosong Sun, Heng Ji. <br>
+Yangyi Chen\*, *<u>Hongcheng Gao*</u>*, Ganqu Cui\*, Lifan Yuan, Dehan Kong, Hanlu Wu, Ning Shi, Bo Yuan, Longtao Huang, Hui Xue, Zhiyuan Liu, Maosong Sun, Heng Ji. <br>
 *Findings of ACL 2023*.<br>
 
 **2022**

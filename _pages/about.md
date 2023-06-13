@@ -115,8 +115,8 @@ Lei Xu, Yangyi Chen, Ganqu Cui, *<u>Hongcheng Gao</u>*, Zhiyuan Liu.<br>
 
 # 📖 Experiments
 
-- *2018.09 - 2023.06 (Expected)*, Chongqing University.
-- *2021.06 - today*, Intern at THUNLP, Tsinghua University.
+- *2018.09 - 2023.06 (Expected)*, Undergraduate Student at Chongqing University.
+- *2021.06 - today*, Intern at THUNLP, Tsinghua University. Mentor: <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

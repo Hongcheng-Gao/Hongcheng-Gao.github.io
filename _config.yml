@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lifan Yuan"
-description              : "Undergrad at HUST, interested in trustworthy ML/NLP."
-repository               : "lifan-yuan/lifan-yuan.github.io"
+title                    : "Hongcheng gao"
+description              : "Undergrad at CQU, interested in trustworthy ML/NLP."
+repository               : "https://github.com/Hongcheng-Gao"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lifan Yuan"
-  avatar           : "images/ylf.jpg"
-  bio              : "lievanyuan173@gmail.com"
-  location         : "Wuhan, China"
+  name             : "Hongcheng Gao"
+  avatar           : "images/ghc.jpg"
+  bio              : "Undergrad at CQU, interested in trustworthy ML/NLP"
+  location         : "Chongqing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WPAuAOgAAAAJ"
-  email            : "lievanyuan173@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=pF5p7_IAAAAJ&hl=en"
+  email            : "gaohongcheng2000@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lifan-yuan"
+  github           : "Hongcheng-Gao"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : lifan__yuan
+  twitter          : GaoHongcheng
   vine             :
   weibo            :
   xing             :

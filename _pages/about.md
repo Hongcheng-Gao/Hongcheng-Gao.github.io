@@ -86,15 +86,6 @@ Lei Xu, Yangyi Chen, Ganqu Cui, *<u>Hongcheng Gao</u>*, Zhiyuan Liu.<br>
 - [RobTest](https://github.com/thunlp/RobTest): an open-source toolkit for textual model robustness evaluation .<br>
 - [OpenAttack](https://github.com/thunlp/OpenAttack): an open-source Python-based textual adversarial attack toolkit.<br>
 
-
-<!-- <img src="../images/openbackdoor.png" style="border:1.2px solid #464646;padding:5px;border-radius:20px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="35%"/><br> -->
-
-  <!-- **Extensive implementation.** Users can easily replicate the popular attack and defense models in a few lines of code.
-
-  **Comprehensive evaluation.** OpenBackdoor integrates multiple benchmark tasks with corresponding metrics.
-
-  **Modularized framework.** The pipeline of backdoor attack and defense is broken down into distinct modules, enabling high extendibility. -->
-
 <!-- # 📄 Academic Services
 
 **Conference Reviews**

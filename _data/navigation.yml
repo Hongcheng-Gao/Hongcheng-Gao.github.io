@@ -15,11 +15,14 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
-  - title: "Academic Services"
-    url: "/#-academic-services"
+  # - title: "Academic Services"
+  #   url: "/#-academic-services"
     
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
     
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Educations"
+  #   url: "/#-educations"
+
+  - title: "Experiments"
+    url: "/#-experiments"

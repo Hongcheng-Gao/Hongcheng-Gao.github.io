@@ -37,10 +37,10 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 # 📝 Preprints 
 \* indicates equal contribution.
 
-- Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations [\[Paper\]](http://arxiv.org/abs/2306.04618)<br>
+- **Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations** [\[Paper\]](http://arxiv.org/abs/2306.04618)<br>
 Lifan Yuan, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Fangyuan Zou, Xingyi Cheng, Heng Ji, Zhiyuan Liu, Maosong Sun
 
-- Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model [\[Paper\]](https://arxiv.org/abs/2305.16617)<br>
+- **Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model** [\[Paper\]](https://arxiv.org/abs/2305.16617)<br>
 Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang
 
 
@@ -61,22 +61,22 @@ Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang
 
 **2023**
 
-- From Adversarial Arms Race to Model-centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework [\[Paper\]](https://arxiv.org/abs/2305.18503)<br>
+- **From Adversarial Arms Race to Model-centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework** [\[Paper\]](https://arxiv.org/abs/2305.18503)<br>
 Yangyi Chen\*, **Hongcheng Gao\***, Ganqu Cui\*, Lifan Yuan, Dehan Kong, Hanlu Wu, Ning Shi, Bo Yuan, Longtao Huang, Hui Xue, Zhiyuan Liu, Maosong Sun, Heng Ji. <br>
 *Findings of **ACL 2023***.<br>
 
 **2022**
 
-- Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP [\[Paper\]](https://arxiv.org/abs/2208.11464)<br>
+- **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP** [\[Paper\]](https://arxiv.org/abs/2208.11464)<br>
 Yangyi Chen\*, **Hongcheng Gao\***, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun. <br>
 ***EMNLP 2022***.<br>
 
-- Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks[\[Paper\]](https://arxiv.org/abs/2206.08514)<br>
+- **Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks** [\[Paper\]](https://arxiv.org/abs/2206.08514)<br>
 Yangyi Chen\*, Fanchao Qi\*, **Hongcheng Gao**, Zhiyuan Liu, Maosong Sun. <br>
 ***EMNLP 2022***.<br>
 
 
-- Exploring the Universal Vulnerability of Prompt-based Learning Paradigm [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9732198/)<br>
+- **Exploring the Universal Vulnerability of Prompt-based Learning Paradigm** [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9732198/)<br>
 Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 *Findings of **NAACL 2022***.<br>
 

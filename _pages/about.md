@@ -104,7 +104,7 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 - Merit Student, HUST, 2020
 - First Prize in Provinces, Chinese Chemistry Olympiad, 2018 -->
 
-# 📖 Experiments
+# 📖 Experiences
 
 - *2018.09 - 2023.06 (Expected)*, Undergraduate Student at Chongqing University.
 - *2021.06 - today*, Intern at THUNLP, Tsinghua University. Mentor: <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>

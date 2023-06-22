@@ -44,9 +44,8 @@ Lifan Yuan, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Fangyuan Zou, Xingyi Chen
 Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang
 
 - **DEPP: A Novel Crystal Descriptor and Application in Ionic Batteries Voltage Prediction** <br>
-Dongchen Jina*, **Hongcheng Gao\***, Haoran Luoa*, Linlin Hea, Chao Yang, Yujie Zheng
-<br>
-*Under Review by npj Computational Materials(Sister journal of <font color="dd0000">**Nature**</font>)*
+Dongchen Jina*, **Hongcheng Gao\***, Haoran Luoa*, Linlin Hea, Chao Yang, Yujie Zheng <br>
+*Under Review by **npj Computational Materials**(Sister journal of **<font color="dd0000">Nature</font>**)*
 
 # 📝 Publications 
 \* indicates equal contribution.

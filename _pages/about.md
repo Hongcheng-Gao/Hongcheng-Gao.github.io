@@ -43,6 +43,10 @@ Lifan Yuan, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Fangyuan Zou, Xingyi Chen
 - **Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model** [\[Paper\]](https://arxiv.org/abs/2305.16617)<br>
 Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang
 
+- **DEPP: A Novel Crystal Descriptor and Application in Ionic Batteries Voltage Prediction** <br>
+Dongchen Jina*, **Hongcheng Gao\***, Haoran Luoa*, Linlin Hea, Chao Yang, Yujie Zheng
+<br>
+Under Review by npj Computational Materials(Sister journal of <font color="#660000">**Nature**</font><br /> )
 
 # 📝 Publications 
 \* indicates equal contribution.

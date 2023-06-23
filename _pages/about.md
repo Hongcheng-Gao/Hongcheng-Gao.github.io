@@ -38,14 +38,22 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 \* indicates equal contribution.
 
 - **Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations** [\[Paper\]](http://arxiv.org/abs/2306.04618)<br>
-Lifan Yuan, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Fangyuan Zou, Xingyi Cheng, Heng Ji, Zhiyuan Liu, Maosong Sun.
+Lifan Yuan, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Fangyuan Zou, Xingyi Cheng, Heng Ji, Zhiyuan Liu, Maosong Sun. <br>
+*Under Review by **NeurIPS 2023***
 
 - **Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model** [\[Paper\]](https://arxiv.org/abs/2305.16617)<br>
-Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang.
+Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang. <br>
+*Under Review by **NeurIPS 2023***
+
+- **Evaluating the Robustness of Text-to-image
+Diffusion Models against Real-world Attacks** <br>
+Hongcheng Gao, Hao Zhang, Yinpeng Dong, Zhijie Deng. <br>
+*Under Review by **NeurIPS 2023***
 
 - **DEPP: A Novel Crystal Descriptor and Application in Ionic Batteries Voltage Prediction** <br>
 Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo*, Linlin He, Chao Yang, Yujie Zheng. <br>
 *Under Review by **npj Computational Materials** (Sister journal of **<font color="dd0000">Nature</font>**)*
+
 
 # 📝 Publications 
 \* indicates equal contribution.

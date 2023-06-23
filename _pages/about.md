@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p>Hongcheng Gao(高鸿成) is a fourth-year undergraduate student in Computer Science at <a href="https://cqu.edu.cn/">Chongqing University</a>. 
-In his undergraduate years, He was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>.  He also worked with <a href="https://thudzj.github.io">Prof. Zhijie Deng</a>(<a href="https://www.sjtu.edu.cn">SJTU</a>) and <a href="https://people.eecs.berkeley.edu/~hao/">Prof.Hao Zhang</a>(<a href="https://www.berkeley.edu">UC Berkeley</a>).
+In his undergraduate years, He was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>.  He also worked with <a href="https://thudzj.github.io">Prof. Zhijie Deng</a>(<a href="https://www.sjtu.edu.cn">SJTU</a>), <a href="https://ml.cs.tsinghua.edu.cn/~yinpeng/">Post-doc Yinpeng Dong</a>(<a href="https://www.tsinghua.edu.cn/en/">THU</a>) and <a href="https://people.eecs.berkeley.edu/~hao/">Prof.Hao Zhang</a>(<a href="https://www.berkeley.edu">UC Berkeley</a>).
 <br>
 His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning</strong>.<br>
 </p>
@@ -44,7 +44,7 @@ Lifan Yuan, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Fangyuan Zou, Xingyi Chen
 Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang.
 
 - **DEPP: A Novel Crystal Descriptor and Application in Ionic Batteries Voltage Prediction** <br>
-Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luoa*, Linlin Hea, Chao Yang, Yujie Zheng. <br>
+Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo*, Linlin He, Chao Yang, Yujie Zheng. <br>
 *Under Review by **npj Computational Materials** (Sister journal of **<font color="dd0000">Nature</font>**)*
 
 # 📝 Publications 

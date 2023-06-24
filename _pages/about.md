@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p>Hongcheng Gao(高鸿成) is a fourth-year undergraduate student in Computer Science at <a href="https://cqu.edu.cn/">Chongqing University</a>. 
-In his undergraduate years, He was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>.  He also worked with <a href="https://thudzj.github.io">Prof. Zhijie Deng</a>(<a href="https://www.sjtu.edu.cn">SJTU</a>), <a href="https://ml.cs.tsinghua.edu.cn/~yinpeng/">Post-doc Yinpeng Dong</a>(<a href="https://www.tsinghua.edu.cn/en/">THU</a>) and <a href="https://people.eecs.berkeley.edu/~hao/">Prof.Hao Zhang</a>(<a href="https://www.berkeley.edu">UC Berkeley</a>).
+In his undergraduate years, He was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>.  He also worked with <a href="https://thudzj.github.io">Prof.Zhijie Deng</a>(<a href="https://www.sjtu.edu.cn">SJTU</a>), <a href="https://ml.cs.tsinghua.edu.cn/~yinpeng/">Post-doc Yinpeng Dong</a>(<a href="https://www.tsinghua.edu.cn/en/">THU</a>) and <a href="https://people.eecs.berkeley.edu/~hao/">Prof.Hao Zhang</a>(<a href="https://www.berkeley.edu">UC Berkeley</a>).
 <br>
 His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning</strong>.<br>
 </p>

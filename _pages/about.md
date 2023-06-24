@@ -47,7 +47,7 @@ Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang. <br>
 
 - **Evaluating the Robustness of Text-to-image
 Diffusion Models against Real-world Attacks** <br>
-Hongcheng Gao, Hao Zhang, Yinpeng Dong, Zhijie Deng. <br>
+**Hongcheng Gao**, Hao Zhang, Yinpeng Dong, Zhijie Deng. <br>
 *Under Review by **NeurIPS 2023***
 
 - **DEPP: A Novel Crystal Descriptor and Application in Ionic Batteries Voltage Prediction** <br>

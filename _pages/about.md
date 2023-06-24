@@ -25,9 +25,9 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
-- *2023.05*: 🎉 One paper is accepted to **ACL 2023**!
-- *2022.10*: 🎉 Two papers are accepted by **EMNLP 2022**!
-- *2022.08*: 🎉 One paper is accepted by **NAACL 2022**!
+- *2023.05*: 🎉 One paper is accepted to ***ACL 2023***!
+- *2022.10*: 🎉 Two papers are accepted by ***EMNLP 2022***!
+- *2022.08*: 🎉 One paper is accepted by ***NAACL 2022***!
 <!-- - *2022.06*: &nbsp;🎉🎉 Our textual backdoor learning toolkit *OpenBackdoor* has been released. Please check out [here](https://github.com/thunlp/OpenBackdoor)! -->
 
 

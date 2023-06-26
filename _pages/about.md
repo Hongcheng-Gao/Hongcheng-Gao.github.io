@@ -50,7 +50,7 @@ Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang. <br>
 *Under Review by **NeurIPS 2023***
 
 - **DEPP: A Novel Crystal Descriptor and Application in Ionic Batteries Voltage Prediction** <br>
-Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo*, Linlin He, Chao Yang, Yujie Zheng. <br>
+Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Zheng. <br>
 *Under Review by **npj Computational Materials** (Sister journal of **<font color="dd0000">Nature</font>**)*
 
 

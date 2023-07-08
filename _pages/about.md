@@ -25,9 +25,9 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
-- *2023.05*: 🎉 One paper is accepted to ***ACL 2023***!
-- *2022.10*: 🎉 Two papers are accepted by ***EMNLP 2022***!
-- *2022.08*: 🎉 One paper is accepted by ***NAACL 2022***!
+- *2023.05*: 🎉 One paper is accepted to ACL 2023!
+- *2022.10*: 🎉 Two papers are accepted by EMNLP 2022!
+- *2022.08*: 🎉 One paper is accepted by NAACL 2022!
 <!-- - *2022.06*: &nbsp;🎉🎉 Our textual backdoor learning toolkit *OpenBackdoor* has been released. Please check out [here](https://github.com/thunlp/OpenBackdoor)! -->
 
 
@@ -36,6 +36,8 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 # 📝 Preprints 
 \* indicates equal contribution.
+- **Generative Multimodal Pretraining at Scale** [\[Paper\]](https://hongcheng-gao.github.io/)<br> 
+Quan Sun*, Qiying Yu*, Yufeng Cui*, Fan Zhang*, Xiaosong Zhang*, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang
 
 - **Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks** [\[Paper\]](https://arxiv.org/abs/2306.13103)<br> 
 **Hongcheng Gao**, Hao Zhang, Yinpeng Dong, Zhijie Deng. <br>

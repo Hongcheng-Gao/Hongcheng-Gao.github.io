@@ -36,7 +36,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 # 📝 Preprints 
 \* indicates equal contribution.
-- **Generative Multimodal Pretraining at Scale** [\[Paper\]](https://hongcheng-gao.github.io/)<br> 
+- **Generative Multimodal Pretraining at Scale** [\[Paper\]](https://arxiv.org/abs/2307.05222)<br> 
 Quan Sun\*, Qiying Yu\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, **Hongcheng Gao**, Jingjing Liu, Tiejun Huang, Xinlong Wang
 
 - **Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks** [\[Paper\]](https://arxiv.org/abs/2306.13103)<br> 
@@ -97,6 +97,7 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 
 - [RobTest](https://github.com/thunlp/RobTest): an open-source toolkit for textual model robustness evaluation .<br>
 - [OpenAttack](https://github.com/thunlp/OpenAttack): an open-source Python-based textual adversarial attack toolkit.<br>
+- [Emu](https://github.com/baaivision/Emu): an open multimodal generalist interface for both image-to-text and text-to-image tasks. <br>
 
 <!-- # 📄 Academic Services
 

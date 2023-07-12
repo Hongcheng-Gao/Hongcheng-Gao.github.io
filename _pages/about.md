@@ -97,7 +97,7 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 
 - [RobTest](https://github.com/thunlp/RobTest): an open-source toolkit for textual model robustness evaluation .<br>
 - [OpenAttack](https://github.com/thunlp/OpenAttack): an open-source Python-based textual adversarial attack toolkit.<br>
-- [Emu](https://github.com/baaivision/Emu): an open multimodal generalist interface for both image-to-text and text-to-image tasks. <br>
+- [Emu](https://github.com/baaivision/Emu): an open multimodal generalist for both image-to-text and text-to-image tasks. <br>
 
 <!-- # 📄 Academic Services
 

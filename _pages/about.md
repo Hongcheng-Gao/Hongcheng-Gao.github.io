@@ -36,7 +36,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 # 📝 Preprints 
 \* indicates equal contribution.
-- **Generative Multimodal Pretraining at Scale** [\[Paper\]](https://arxiv.org/abs/2307.05222)<br> 
+- **Generative Pretraining in Multimodality** [\[Paper\]](https://arxiv.org/abs/2307.05222)<br> 
 Quan Sun\*, Qiying Yu\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, **Hongcheng Gao**, Jingjing Liu, Tiejun Huang, Xinlong Wang
 
 - **Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks** [\[Paper\]](https://arxiv.org/abs/2306.13103)<br> 

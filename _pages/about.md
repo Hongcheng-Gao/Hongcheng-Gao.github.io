@@ -17,8 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>Hongcheng Gao(高鸿成) is a first-year Master student from the <a href="https://www.ucas.ac.cn//">UCAS</a> and <a href="https://vipl.ict.ac.cn/">VIPL</a>(<a href="http://www.ict.ac.cn/">ICT</a>). He received Bachelor's degree in Computer Science and Technology from <a href="https://cqu.edu.cn/">Chongqing University</a> in 2023. In his undergraduate years, He was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>.  He also worked with <a href="https://thudzj.github.io">Prof.Zhijie Deng</a>(<a href="https://www.sjtu.edu.cn">SJTU</a>), <a href="https://ml.cs.tsinghua.edu.cn/~yinpeng/">Post-doc Yinpeng Dong</a>(<a href="https://www.tsinghua.edu.cn/en/">THU</a>) and <a href="https://people.eecs.berkeley.edu/~hao/">Prof.Hao Zhang</a>(<a href="https://www.berkeley.edu">UC Berkeley</a>).
+<p>Hongcheng Gao(高鸿成) is a first-year Master student from the <a href="https://www.ucas.ac.cn//">UCAS</a> and <a href="https://vipl.ict.ac.cn/">VIPL</a>(<a href="http://www.ict.ac.cn/">ICT</a>). He received Bachelor's degree of Computer Science and Techology at <a href="https://cqu.edu.cn/">Chongqing University</a> in 2023. 
+
+In his undergraduate years, He was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>.  He also worked with <a href="https://thudzj.github.io">Prof.Zhijie Deng</a>(<a href="https://www.sjtu.edu.cn">SJTU</a>), <a href="https://ml.cs.tsinghua.edu.cn/~yinpeng/">Post-doc Yinpeng Dong</a>(<a href="https://www.tsinghua.edu.cn/en/">THU</a>) and <a href="https://people.eecs.berkeley.edu/~hao/">Prof.Hao Zhang</a>(<a href="https://www.berkeley.edu">UC Berkeley</a>).
 <br>
+
 His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning</strong>.<br>
 </p>
 
@@ -99,12 +102,14 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 - [Emu](https://github.com/baaivision/Emu): an open multimodal generalist for both image-to-text and text-to-image tasks. <br>
 
 <!-- # 📄 Academic Services
+- Journey Reviews:
+<a href="https://www.springer.com/journal/10994">Machine Learning</a>,  -->
 
-**Conference Reviews**
+<!-- **Conference Reviews**
 
 2023: ACL, ARR.
 
-2022: NeurIPS, EMNLP, ARR. -->
+2022: NeurIPS, EMNLP, ARR. --> 
 
 
 <!-- # 🎖 Honors and Awards

@@ -27,9 +27,10 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
-- *2023.05*: 🎉 One paper is accepted to ACL 2023!
-- *2022.10*: 🎉 Two papers are accepted by EMNLP 2022!
-- *2022.08*: 🎉 One paper is accepted by NAACL 2022!
+- *2023.09*：🎉 One paper accepted to NeurIPS 2023 (D&B Track).
+- *2023.05*: 🎉 One paper accepted to ACL 2023!
+- *2022.10*: 🎉 Two papers accepted by EMNLP 2022!
+- *2022.08*: 🎉 One paper accepted by NAACL 2022!
 <!-- - *2022.06*: &nbsp;🎉🎉 Our textual backdoor learning toolkit *OpenBackdoor* has been released. Please check out [here](https://github.com/thunlp/OpenBackdoor)! -->
 
 
@@ -45,8 +46,6 @@ Quan Sun\*, Qiying Yu\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang
 **Hongcheng Gao**, Hao Zhang, Yinpeng Dong, Zhijie Deng. <br>
 <!-- *Under Review by **NeurIPS 2023*** -->
 
-- **Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations** [\[Paper\]](http://arxiv.org/abs/2306.04618)<br>
-Lifan Yuan, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Fangyuan Zou, Xingyi Cheng, Heng Ji, Zhiyuan Liu, Maosong Sun. <br>
 <!-- *Under Review by **NeurIPS 2023*** -->
 
 - **Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model** [\[Paper\]](https://arxiv.org/abs/2305.16617)<br>
@@ -74,6 +73,10 @@ Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Z
 </td></tr></table> -->
 
 **2023**
+
+- **Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations** [\[Paper\]](http://arxiv.org/abs/2306.04618)<br>
+Lifan Yuan, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Fangyuan Zou, Xingyi Cheng, Heng Ji, Zhiyuan Liu, Maosong Sun. <br>
+***NeurIPS 2023 (D&B Track)***
 
 - **From Adversarial Arms Race to Model-centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework** [\[Paper\]](https://arxiv.org/abs/2305.18503)<br>
 Yangyi Chen\*, **Hongcheng Gao\***, Ganqu Cui\*, Lifan Yuan, Dehan Kong, Hanlu Wu, Ning Shi, Bo Yuan, Longtao Huang, Hui Xue, Zhiyuan Liu, Maosong Sun, Heng Ji. <br>

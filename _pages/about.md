@@ -29,7 +29,7 @@ redirect_from:
 <!-- <br> -->
 
 His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning</strong>.<br>
-<!-- </p> -->
+</p>
 
 
 # 🔥 News

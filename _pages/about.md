@@ -33,6 +33,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
+- *2024.01*: 🎉 One paper accepted to ICLR 2024.
 - *2023.09*: 🎉 One paper accepted to NeurIPS 2023 (D&B Track).
 - *2023.05*: 🎉 One paper accepted to ACL 2023!
 - *2022.10*: 🎉 Two papers accepted by EMNLP 2022!
@@ -45,8 +46,6 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 # 📝 Preprints 
 \* indicates equal contribution.
-- **Generative Pretraining in Multimodality** [\[Paper\]](https://arxiv.org/abs/2307.05222)<br> 
-Quan Sun\*, Qiying Yu\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, **Hongcheng Gao**, Jingjing Liu, Tiejun Huang, Xinlong Wang
 
 - **Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks** [\[Paper\]](https://arxiv.org/abs/2306.13103)<br> 
 **Hongcheng Gao**, Hao Zhang, Yinpeng Dong, Zhijie Deng. <br>
@@ -77,6 +76,11 @@ Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Z
       <em><b>Insights</b></em>: Learnable calibration methods, which directly collect data to train PLMs on the calibration task, demonstrate a great potential in improving PLMs' calibration.<br>
     </p>
 </td></tr></table> -->
+**2024**
+
+- **Generative Pretraining in Multimodality** [\[Paper\]](https://arxiv.org/abs/2307.05222)<br> 
+Quan Sun\*, Qiying Yu\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, **Hongcheng Gao**, Jingjing Liu, Tiejun Huang, Xinlong Wang<br>
+***ICLR 2024***
 
 **2023**
 

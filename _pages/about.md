@@ -33,6 +33,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
+- *2024.05*: One paper accepted to ACL 2024.
 - *2024.04*: One paper accepted to NAACL 2024.
 - *2024.01*: 🎉 One paper accepted to ICLR 2024.
 - *2023.09*: 🎉 One paper accepted to NeurIPS 2023 (D&B Track).
@@ -54,8 +55,6 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 <!-- *Under Review by **NeurIPS 2023*** -->
 
-- **Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model** [\[Paper\]](https://arxiv.org/abs/2305.16617)<br>
-Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang. <br>
 <!-- *Under Review by **NeurIPS 2023*** -->
 
 <!-- - **DEPP: A Novel Crystal Descriptor and Application in Ionic Batteries Voltage Prediction** <br>
@@ -78,6 +77,11 @@ Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Z
     </p>
 </td></tr></table> -->
 **2024**
+
+
+- **Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model** [\[Paper\]](https://arxiv.org/abs/2305.16617)<br>
+Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang. <br>
+*Findings of **ACL 2024***.<br>
 
 - **Universal Prompt Optimizer for Safe Text-to-Image Generation** [\[Paper\]](https://arxiv.org/abs/2402.10882)<br> 
 Zongyu Wu\*, **Hongcheng Gao\***, Yueze Wang, Xiang Zhang, Suhang Wang. <br>

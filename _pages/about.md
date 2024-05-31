@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>Hongcheng Gao(高鸿成) is a first-year Master student at <a href="https://www.ucas.ac.cn//">UCAS</a> and <a href="https://vipl.ict.ac.cn/">VIPL</a>(<a href="http://www.ict.ac.cn/">ICT</a>). He received Bachelor's degree of Computer Science and Techology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. In his undergraduate years, he was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>. In the early stages of my research, he worked closely with <a href="https://yangyi-chen.github.io/">Yangyi Chen</a> and received great help from him. </p>
+<p>Hongcheng Gao(高鸿成) is a first-year Master student at <a href="https://www.ucas.ac.cn//">UCAS</a> and <a href="https://vipl.ict.ac.cn/">VIPL</a>(<a href="http://www.ict.ac.cn/">ICT</a>). He received Bachelor's degree of Computer Science and Techology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. In his undergraduate years, he was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>. In the early stages of his research, he worked closely with <a href="https://yangyi-chen.github.io/">Yangyi Chen</a> and received great help from him. </p>
 
 <!-- Hongcheng Gao(高鸿成) is nobody just hoping to make some meaningful works. His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning. -->
 

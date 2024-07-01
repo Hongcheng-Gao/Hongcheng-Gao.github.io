@@ -49,8 +49,8 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 # 📝 Preprints 
 \* indicates equal contribution.
 
-- **AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models** [\[Paper\]](https://arxiv.org/pdf/2406.13233)<br>
-Zihao Zeng, Yibo Miao, Hongcheng Gao, Hao Zhang, Zhijie Deng. <br>
+- **AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
+Zihao Zeng, Yibo Miao, **Hongcheng Gao**, Hao Zhang, Zhijie Deng. <br>
 
 - **Adaptive Token Biaser: Knowledge Editing via Biasing Key Entities** [\[Paper\]](https://arxiv.org/abs/2406.12468)<br> 
 Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Yilong Xu, Xueqi Cheng. <br>

@@ -50,6 +50,9 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 # 📝 Preprints 
 \* indicates equal contribution.
+- **StruEdit: Structured Outputs Enable the Fast and Accurate Knowledge Editing for Large Language Models** [\[Paper\]](https://arxiv.org/abs/2409.10132)<br>
+Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Junfeng Fang, Xueqi Cheng
+
 - **Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
 Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, **Hongcheng Gao** et al.
 

@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>Hongcheng Gao(高鸿成) is a first-year Master student at <a href="https://www.ucas.ac.cn//">UCAS</a> and <a href="https://vipl.ict.ac.cn/">VIPL</a>(<a href="http://www.ict.ac.cn/">ICT</a>). He received Bachelor's degree of Computer Science and Techology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. In his undergraduate years, he was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>. </p>
+<p>Hongcheng Gao(高鸿成) is a second-year Master student at <a href="https://www.ucas.ac.cn//">UCAS</a>. He received his Bachelor's degree of Computer Science and Technology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. In his undergraduate years, he was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>. In the early stages of his research, he worked closely with <a href="https://yangyi-chen.github.io/">Yangyi Chen</a> and received great help from him. Nowadays, he is advised by <a href="https://thudzj.github.io/">Zhijie Deng</a>, <a href="https://p2333.github.io/">Tianyu Pang</a> and <a href="https://duchao0726.github.io/">Chao Du</a> at <a href="https://sail.sea.com/">SAIL</a>.</p>
 
+<!-- and <a href="https://vipl.ict.ac.cn/">VIPL</a>(<a href="http://www.ict.ac.cn/">ICT</a>) -->
 <!-- Hongcheng Gao(高鸿成) is nobody just hoping to make some meaningful works. His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning. -->
 
 <!-- Curently, he is also a core member of <a href="https://huggingface.co/WizardLM">WizardLM Team</a> of <a href="https://www.msra.cn/">Microsoft Research</a>. -->
@@ -33,6 +34,9 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
+- *2024.09*: Two papers accepted to EMNLP 2024.
+- *2024.05*: One paper accepted to ACL 2024.
+- *2024.04*: One paper accepted to NAACL 2024.
 - *2024.01*: 🎉 One paper accepted to ICLR 2024.
 - *2023.09*: 🎉 One paper accepted to NeurIPS 2023 (D&B Track).
 - *2023.05*: 🎉 One paper accepted to ACL 2023!
@@ -46,6 +50,8 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 # 📝 Preprints 
 \* indicates equal contribution.
+- **Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
+Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, **Hongcheng Gao** et al.
 
 - **Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks** [\[Paper\]](https://arxiv.org/abs/2306.13103)<br> 
 **Hongcheng Gao**, Hao Zhang, Yinpeng Dong, Zhijie Deng. <br>
@@ -53,13 +59,11 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 <!-- *Under Review by **NeurIPS 2023*** -->
 
-- **Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model** [\[Paper\]](https://arxiv.org/abs/2305.16617)<br>
-Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang. <br>
 <!-- *Under Review by **NeurIPS 2023*** -->
 
-- **DEPP: A Novel Crystal Descriptor and Application in Ionic Batteries Voltage Prediction** <br>
+<!-- - **DEPP: A Novel Crystal Descriptor and Application in Ionic Batteries Voltage Prediction** <br>
 Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Zheng. <br>
-<!-- *Under Review by **npj Computational Materials** (Sister journal of **<font color="dd0000">Nature</font>**)* -->
+*Under Review by **npj Computational Materials** (Sister journal of **<font color="dd0000">Nature</font>**)* -->
 
 
 # 📝 Publications 
@@ -77,6 +81,22 @@ Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Z
     </p>
 </td></tr></table> -->
 **2024**
+
+- **AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
+Zihao Zeng\*, Yibo Miao\*, **Hongcheng Gao**, Hao Zhang, Zhijie Deng. <br>
+*Findings of **EMNLP 2024***.<br>
+
+- **Adaptive Token Biaser: Knowledge Editing via Biasing Key Entities** [\[Paper\]](https://arxiv.org/abs/2406.12468)<br> 
+Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Yilong Xu, Xueqi Cheng. <br>
+*Findings of **EMNLP 2024***.<br>
+
+- **Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model** [\[Paper\]](https://arxiv.org/abs/2305.16617)<br>
+Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang. <br>
+*Findings of **ACL 2024***.<br>
+
+- **Universal Prompt Optimizer for Safe Text-to-Image Generation** [\[Paper\]](https://arxiv.org/abs/2402.10882)<br> 
+Zongyu Wu\*, **Hongcheng Gao\***, Yueze Wang, Xiang Zhang, Suhang Wang. <br>
+***NAACL 2024***
 
 - **Generative Pretraining in Multimodality** [\[Paper\]](https://arxiv.org/abs/2307.05222)<br> 
 Quan Sun\*, Qiying Yu\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, **Hongcheng Gao**, Jingjing Liu, Tiejun Huang, Xinlong Wang<br>

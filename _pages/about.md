@@ -32,6 +32,10 @@ redirect_from:
 His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning</strong>.<br>
 </p>
 
+<p>
+<font color='red'> Actively seeking PhD program opportunity for the Fall of 2025  ^_^ </font>
+</p>
+
 
 # 🔥 News
 - *2024.09*: Two papers accepted to NeurIPS 2024 with one Spotlight.

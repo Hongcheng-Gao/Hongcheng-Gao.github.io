@@ -34,6 +34,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
+- *2024.09*: Two papers accepted to NeurIPS 2024 with one Spotlight.
 - *2024.09*: Two papers accepted to EMNLP 2024.
 - *2024.05*: One paper accepted to ACL 2024.
 - *2024.04*: One paper accepted to NAACL 2024.

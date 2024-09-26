@@ -87,7 +87,7 @@ Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Z
 </td></tr></table> -->
 **2024**
 - **Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
-Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, **Hongcheng Gao** et al.
+Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, **Hongcheng Gao** et al. <br>
 ***NeurIPS 2024(Spotlight）***
 
 - **AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>

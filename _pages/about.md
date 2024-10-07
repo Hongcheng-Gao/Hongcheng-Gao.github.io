@@ -55,6 +55,9 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 # 📝 Preprints 
 \* indicates equal contribution.
+- **Is factuality decoding a free lunch for llms? evaluation on knowledge editing benchmark** [\[Paper\]](https://arxiv.org/abs/2404.00216)<br>
+Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, Junfeng Fang, **Hongcheng Gao**, Shiyu Ni, Xueqi Cheng
+
 - **StruEdit: Structured Outputs Enable the Fast and Accurate Knowledge Editing for Large Language Models** [\[Paper\]](https://arxiv.org/abs/2409.10132)<br>
 Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Junfeng Fang, Xueqi Cheng
 

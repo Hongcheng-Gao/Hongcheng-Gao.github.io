@@ -32,9 +32,13 @@ redirect_from:
 His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning</strong>.<br>
 </p>
 
+<p>
+<font color='red'> Actively seeking PhD program opportunity for the Fall of 2026  ^_^  Please contact me if you are interested!</font>
+</p>
+
 
 # 🔥 News
-- *2024.09*: Two papers accepted to NeurIPS 2024 with one Spotlight.
+- *2024.09*: Three papers accepted to NeurIPS 2024 with two Spotlight.
 - *2024.09*: Two papers accepted to EMNLP 2024.
 - *2024.05*: One paper accepted to ACL 2024.
 - *2024.04*: One paper accepted to NAACL 2024.
@@ -51,11 +55,14 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 # 📝 Preprints 
 \* indicates equal contribution.
+- **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** [\[Paper\]](https://arxiv.org/abs/2410.12777)<br>
+**Hongcheng Gao**, Tianyu Pang, Chao Du, Taihang Hu, Zhijie Deng, Min Lin
+
+- **Is factuality decoding a free lunch for llms? evaluation on knowledge editing benchmark** [\[Paper\]](https://arxiv.org/abs/2404.00216)<br>
+Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, Junfeng Fang, **Hongcheng Gao**, Shiyu Ni, Xueqi Cheng
+
 - **StruEdit: Structured Outputs Enable the Fast and Accurate Knowledge Editing for Large Language Models** [\[Paper\]](https://arxiv.org/abs/2409.10132)<br>
 Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Junfeng Fang, Xueqi Cheng
-
-- **Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
-Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, **Hongcheng Gao** et al.
 
 - **Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks** [\[Paper\]](https://arxiv.org/abs/2306.13103)<br> 
 **Hongcheng Gao**, Hao Zhang, Yinpeng Dong, Zhijie Deng. <br>
@@ -85,6 +92,9 @@ Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Z
     </p>
 </td></tr></table> -->
 **2024**
+- **Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
+Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, **Hongcheng Gao** et al. <br>
+***NeurIPS 2024(Spotlight）***
 
 - **AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
 Zihao Zeng\*, Yibo Miao\*, **Hongcheng Gao**, Hao Zhang, Zhijie Deng. <br>
@@ -135,8 +145,10 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 # 💻 Projects
 
 - [RobTest](https://github.com/thunlp/RobTest): an open-source toolkit for textual model robustness evaluation .<br>
+- [Spider2-V](https://github.com/xlang-ai/Spider2-V): Spider2-V is a multimodal agent benchmark spanning across the entire data science and engineering workflow 
 - [OpenAttack](https://github.com/thunlp/OpenAttack): an open-source Python-based textual adversarial attack toolkit.<br>
 - [Emu](https://github.com/baaivision/Emu): an open multimodal generalist for both image-to-text and text-to-image tasks. <br>
+
 
 <!-- # 📄 Academic Services
 - Journey Reviews:

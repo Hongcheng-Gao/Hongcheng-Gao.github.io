@@ -1,1 +1,1 @@
-My personal page is [Hongcheng-Gao](http://hongcheng-gao.github.io/).
+My personal page is [Hongcheng-Gao](Hongcheng-Gao.github.io).

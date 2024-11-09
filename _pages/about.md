@@ -33,7 +33,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 </p>
 
 <p>
-<font color='red'> Actively seeking PhD program opportunity for the Fall of 2026  ^_^  Please contact me if you are interested!</font>
+<font color='red'> Seeking PhD opportunity for 2026 Fall ^_^  Please contact me if you are interested!</font>
 </p>
 
 
@@ -152,13 +152,13 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 
 <!-- # 📄 Academic Services
 - Journey Reviews:
-<a href="https://www.springer.com/journal/10994">Machine Learning</a>,  --> -->
+<a href="https://www.springer.com/journal/10994">Machine Learning</a>,  -->
 
 <!-- **Conference Reviews**
 
 2023: ACL, ARR.
 
-2022: NeurIPS, EMNLP, ARR. 
+2022: NeurIPS, EMNLP, ARR. --> 
 
 
 <!-- # 🎖 Honors and Awards

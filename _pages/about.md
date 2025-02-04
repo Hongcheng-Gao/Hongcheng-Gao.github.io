@@ -57,6 +57,8 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 # 📝 Preprints 
 \* indicates equal contribution.
 
+- **GuardReasoner: Towards Reasoning-based LLM Safeguards** [\[Paper\]](https://arxiv.org/abs/2501.18492)<br>
+Yue Liu, **Hongcheng Gao**, Shengfang Zhai, Jun Xia, Tianyi Wu, Zhiwei Xue, Yulin Chen, Kenji Kawaguchi, Jiaheng Zhang, Bryan Hooi
 
 - **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** [\[Paper\]](https://arxiv.org/abs/2410.12777)<br>
 **Hongcheng Gao\***, Tianyu Pang\*, Chao Du, Taihang Hu, Zhijie Deng, Min Lin

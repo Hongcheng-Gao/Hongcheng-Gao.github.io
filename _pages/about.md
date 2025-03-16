@@ -39,7 +39,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 # 🔥 News
 - *2025.01*: Two papers accepted to ICLR 2025 with one oral.
-- *2024.10*: I am selected as NeurIPS 2024 Top Reviewer(10%). 
+- *2024.10*: I am selected as NeurIPS 2024 Top Reviewer. 
 - *2024.09*: Three papers accepted to NeurIPS 2024 with two Spotlight.
 - *2024.09*: Two papers accepted to EMNLP 2024.
 - *2024.05*: One paper accepted to ACL 2024.
@@ -169,8 +169,9 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 - [Emu](https://github.com/baaivision/Emu): an open multimodal generalist for both image-to-text and text-to-image tasks. <br>
 
 # 📄 Academic Services
-2025: ICML, AISTATS, ICCV, ACL, ARR<br>
-2024: NeurIPS(**Top Reviewer**), ICLR, CVPR, ACL, EMNLP, NAACL, ARR, Machine Learning, AISTATS.
+- Reviewer/PC Member:
+  - 2025: ICML, AISTATS, ICCV, ACL, ARR<br>
+  - 2024: NeurIPS(**Top Reviewer**), ICLR, CVPR, ACL, EMNLP, NAACL, ARR, Machine Learning, AISTATS.
 
 <!-- # 📄 Academic Services
 - Journey Reviews:

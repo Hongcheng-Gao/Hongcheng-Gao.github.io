@@ -121,7 +121,7 @@ Jiadong Pan\*, **Hongcheng Gao\***, Zongyu Wu, Tanghang Hu, Li Su, Qingming Huan
 ***NeurIPS 2024(Spotlight）***
 
 - **Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis**[\[Paper\]](https://arxiv.org/abs/2411.07132)<br>
-Taihang Hu, Linxuan Li, Joost van de Weijer, **Hongcheng Gao**, Fahad Shahbaz Khan, Jian Yang, Ming-Ming Cheng, Kai Wang, Yaxing Wang. <be>
+Taihang Hu, Linxuan Li, Joost van de Weijer, **Hongcheng Gao**, Fahad Shahbaz Khan, Jian Yang, Ming-Ming Cheng, Kai Wang, Yaxing Wang. <br>
 ***NeurIPS 2024***
 
 - **AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>

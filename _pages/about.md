@@ -38,10 +38,10 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
-- *2025.04*: I am invited to serve as Area Chair of NeurIPS 2025. 
-- *2025.01*: Two papers accepted to ICLR 2025 with one oral.
-- *2024.10*: I am selected as NeurIPS 2024 Top Reviewer. 
-- *2024.09*: Three papers accepted to NeurIPS 2024 with two Spotlight.
+- *2025.04*: Invited to serve as an **Area Chair** for NeurIPS'25. 
+- *2025.01*: Two papers accepted to ICLR 2025 with one **Oral**.
+- *2024.10*: Selected as NeurIPS 2024 **Top Reviewer**. 
+- *2024.09*: Three papers accepted to NeurIPS 2024 with **two Spotlights**.
 - *2024.09*: Two papers accepted to EMNLP 2024.
 - *2024.05*: One paper accepted to ACL 2024.
 - *2024.04*: One paper accepted to NAACL 2024.

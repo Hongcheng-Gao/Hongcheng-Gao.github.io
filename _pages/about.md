@@ -116,8 +116,12 @@ Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, Junfeng Fang, **Hongcheng Gao
 Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, **Hongcheng Gao** et al. <br>
 ***NeurIPS 2024(Spotlight）***
 
+- **Leveraging Catastrophic Forgetting to Develop Safe Diffusion Models against Malicious Finetuning**[\[Paper\]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d0949cbcec31c09431610553a284f94a-Abstract-Conference.html)<br>
+Jiadong Pan\*, **Hongcheng Gao\***, Zongyu Wu, Tanghang Hu, Li Su, Qingming Huang, Liang Li. <br>
+***NeurIPS 2024(Spotlight）***
+
 - **Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis**[\[Paper\]](https://arxiv.org/abs/2411.07132)<br>
-Taihang Hu, Linxuan Li, Joost van de Weijer, Hongcheng Gao, Fahad Shahbaz Khan, Jian Yang, Ming-Ming Cheng, Kai Wang, Yaxing Wang. <be>
+Taihang Hu, Linxuan Li, Joost van de Weijer, **Hongcheng Gao**, Fahad Shahbaz Khan, Jian Yang, Ming-Ming Cheng, Kai Wang, Yaxing Wang. <be>
 ***NeurIPS 2024***
 
 - **AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
@@ -174,11 +178,11 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 - [Emu](https://github.com/baaivision/Emu): an open multimodal generalist for both image-to-text and text-to-image tasks. <br>
 
 # 📄 Academic Services
-- Area Chiar:
+- Area Chiar/Action Editor:
   - 2025: NeurIPS
 
 - Reviewer/PC Member:
-  - 2025: ICML, AISTATS, ICCV, ACL, ARR<br>
+  - 2025: ICML, AISTATS, ICCV, ACL, ARR, ECAI<br>
   - 2024: NeurIPS(**Top Reviewer**), ICLR, CVPR, ACL, EMNLP, NAACL, ARR, Machine Learning, AISTATS.
 
 <!-- # 📄 Academic Services

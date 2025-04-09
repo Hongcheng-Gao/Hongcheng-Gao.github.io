@@ -38,6 +38,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
+- *2025.04*: I am invited to serve as Area Chair of NeurIPS 2025. 
 - *2025.01*: Two papers accepted to ICLR 2025 with one oral.
 - *2024.10*: I am selected as NeurIPS 2024 Top Reviewer. 
 - *2024.09*: Three papers accepted to NeurIPS 2024 with two Spotlight.
@@ -115,6 +116,10 @@ Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, Junfeng Fang, **Hongcheng Gao
 Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, **Hongcheng Gao** et al. <br>
 ***NeurIPS 2024(Spotlight）***
 
+- **Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis**[\[Paper\]](https://arxiv.org/abs/2411.07132)<br>
+Taihang Hu, Linxuan Li, Joost van de Weijer, Hongcheng Gao, Fahad Shahbaz Khan, Jian Yang, Ming-Ming Cheng, Kai Wang, Yaxing Wang. <be>
+***NeurIPS 2024***
+
 - **AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
 Zihao Zeng\*, Yibo Miao\*, **Hongcheng Gao**, Hao Zhang, Zhijie Deng. <br>
 *Findings of **EMNLP 2024***.<br>
@@ -169,6 +174,9 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 - [Emu](https://github.com/baaivision/Emu): an open multimodal generalist for both image-to-text and text-to-image tasks. <br>
 
 # 📄 Academic Services
+- Area Chiar:
+  - 2025: NeurIPS
+
 - Reviewer/PC Member:
   - 2025: ICML, AISTATS, ICCV, ACL, ARR<br>
   - 2024: NeurIPS(**Top Reviewer**), ICLR, CVPR, ACL, EMNLP, NAACL, ARR, Machine Learning, AISTATS.

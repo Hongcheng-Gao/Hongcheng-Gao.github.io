@@ -38,6 +38,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
+- *2025.06*: One paper accepted to ICCV 2025.
 - *2025.06*: Invited to serve as **Senior PC Member** for CIKM'25. 
 - *2025.04*: Invited to serve as an **Area Chair** for NeurIPS'25. 
 - *2025.01*: Two papers accepted to ICLR 2025 with one **Oral**.
@@ -63,9 +64,6 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 - **GuardReasoner: Towards Reasoning-based LLM Safeguards** [\[Paper\]](https://arxiv.org/abs/2501.18492)<br>
 Yue Liu, **Hongcheng Gao**, Shengfang Zhai, Jun Xia, Tianyi Wu, Zhiwei Xue, Yulin Chen, Kenji Kawaguchi, Jiaheng Zhang, Bryan Hooi
 
-- **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** [\[Paper\]](https://arxiv.org/abs/2410.12777)<br>
-**Hongcheng Gao\***, Tianyu Pang\*, Chao Du, Taihang Hu, Zhijie Deng, Min Lin
-
 - **StruEdit: Structured Outputs Enable the Fast and Accurate Knowledge Editing for Large Language Models** [\[Paper\]](https://arxiv.org/abs/2409.10132)<br>
 Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Junfeng Fang, Xueqi Cheng
 
@@ -73,6 +71,9 @@ Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Junfeng Fa
 **Hongcheng Gao**, Hao Zhang, Yinpeng Dong, Zhijie Deng. <br>
 
 - **Kimi k1. 5: Scaling Reinforcement Learning with LLMs** [\[Paper\]](https://arxiv.org/abs/2501.12599)<br>
+**Kimi Team**
+
+- **Kimi-vl technical report** [\[Paper\]](https://arxiv.org/abs/2504.07491)<br>
 **Kimi Team**
   
 <!-- *Under Review by **NeurIPS 2023*** -->
@@ -102,6 +103,12 @@ Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Z
 </td></tr></table> -->
 
 **2025**
+
+- **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** [\[Paper\]](https://arxiv.org/abs/2410.12777)<br>
+**Hongcheng Gao\***, Tianyu Pang\*, Chao Du, Taihang Hu, Zhijie Deng, Min Lin
+<br>
+***ICCV 2025***
+  
 - **Spider 2.0: Evaluating language models on real-world enterprise text-to-sql workflows** [\[Paper\]](https://arxiv.org/abs/2411.07763)<br>
 Fangyu Lei\*, Jixuan Chen\*, Yuxiao Ye, Ruisheng Cao, Dongchan Shin, Hongjin Su, Zhaoqing Suo, **Hongcheng Gao**, Wenjing Hu, Pengcheng Yin, Victor Zhong, Caiming Xiong, Ruoxi Sun, Qian Liu, Sida Wang, Tao Yu. <br>
 ***ICLR 2025***

@@ -38,6 +38,7 @@ His research interests lie in <strong>trustworthy NLP, large language modeling a
 
 
 # 🔥 News
+- *2025.09*: Two papers accepted to Neurips'25 with one **Oral**.
 - *2025.06*: One paper accepted to ICCV 2025.
 - *2025.06*: Invited to serve as **Senior PC Member** for CIKM'25. 
 - *2025.04*: Invited to serve as an **Area Chair** for NeurIPS'25. 

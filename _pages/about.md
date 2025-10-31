@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>Hongcheng Gao(高鸿成) is a second-year Master student at <a href="https://www.ucas.ac.cn//">UCAS</a>. He received his Bachelor's degree of Computer Science and Technology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. In his undergraduate years, he was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>. In the early stages of his research, he worked closely with <a href="https://yangyi-chen.github.io/">Yangyi Chen</a> and received great help from him. He also cooperated with <a href="https://thudzj.github.io/">Zhijie Deng</a>, <a href="https://p2333.github.io/">Tianyu Pang</a> and <a href="https://duchao0726.github.io/">Chao Du</a> at <a href="https://sail.sea.com/">SAIL</a>.</p>
+<p>Hongcheng Gao(高鸿成) is a final-year Master student at <a href="https://www.ucas.ac.cn//">UCAS</a>. He received his Bachelor's degree of Computer Science and Technology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. In his undergraduate years, he was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>. In the early stages of his research, he worked closely with <a href="https://yangyi-chen.github.io/">Yangyi Chen</a> and received great help from him. He also cooperated with <a href="https://thudzj.github.io/">Zhijie Deng</a>, <a href="https://p2333.github.io/">Tianyu Pang</a> and <a href="https://duchao0726.github.io/">Chao Du</a> at <a href="https://sail.sea.com/">SAIL</a>.</p>
 
 <!-- and <a href="https://vipl.ict.ac.cn/">VIPL</a>(<a href="http://www.ict.ac.cn/">ICT</a>) -->
 <!-- Hongcheng Gao(高鸿成) is nobody just hoping to make some meaningful works. His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning. -->
@@ -32,9 +32,7 @@ redirect_from:
 His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning</strong>.<br>
 </p>
 
-<p>
-<font color='red'> Seeking PhD opportunity for 2026 Fall ^_^  Please contact me if you are interested!</font>
-</p>
+
 
 
 # 🔥 News

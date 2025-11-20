@@ -17,23 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>Hongcheng Gao(高鸿成) is an incoming PhD student at <a href="https://collegeai.tsinghua.edu.cn/"> College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He may recive his Master degree in July 2026. He received his Bachelor's degree of Computer Science and Technology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. 
-<!-- In his undergraduate years, he was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>. In the early stages of his research, he worked closely with <a href="https://yangyi-chen.github.io/">Yangyi Chen</a> and received great help from him. He also cooperated with <a href="https://thudzj.github.io/">Zhijie Deng</a>, <a href="https://p2333.github.io/">Tianyu Pang</a> and <a href="https://duchao0726.github.io/">Chao Du</a> at <a href="https://sail.sea.com/">SAIL</a>.</p> -->
-
-<!-- and <a href="https://vipl.ict.ac.cn/">VIPL</a>(<a href="http://www.ict.ac.cn/">ICT</a>) -->
-<!-- Hongcheng Gao(高鸿成) is nobody just hoping to make some meaningful works. His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning.- *2025.04*: Invited to serve as an **Area Chair** for NeurIPS'25.  -->
-
-<!-- Curently, he is also a core member of <a href="https://huggingface.co/WizardLM">WizardLM Team</a> of <a href="https://www.msra.cn/">Microsoft Research</a>. -->
-
-<!-- He received Bachelor's degree of Computer Science and Techology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. In his undergraduate years, He was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>.   -->
-
-<!-- He also cooperate with <a href="https://thudzj.github.io">Prof.Zhijie Deng</a>(<a href="https://www.sjtu.edu.cn">SJTU</a>), <a href="https://ml.cs.tsinghua.edu.cn/~yinpeng/">Post-doc Yinpeng Dong</a>(<a href="https://www.tsinghua.edu.cn/en/">THU</a>) and <a href="https://cseweb.ucsd.edu/~haozhang/">Prof.Hao Zhang</a>(<a href="https://ucsd.edu/">UCSD</a>). -->
-
-<!-- <br> -->
-<p>
-His current research interests lie broadly in <strong>LLM/VLM, Agent and World Model</strong>.<br>
-</p>
-
+<p>Hongcheng Gao(高鸿成) is an incoming PhD student at <a href="https://collegeai.tsinghua.edu.cn/"> College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He may receive his MSc degree in July 2026. He received his Bachelor's degree of Computer Science and Technology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. 
 
 
 

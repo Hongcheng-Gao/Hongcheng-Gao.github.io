@@ -19,9 +19,11 @@ redirect_from:
 
 <p>Hongcheng Gao(高鸿成) is an incoming PhD student at <a href="https://collegeai.tsinghua.edu.cn/"> College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He may receive his MSc degree in July 2026. He received his Bachelor's degree of Computer Science and Technology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. </p>
 
+His research interests include **large reasoning models**, **AI agents** and **unified models**, spanning both textual and multimodal domains (especially *spatial* tasks).
 
 
 # 🔥 News
+- *2025.11*: One papers accepted to AAAI'26.
 - *2025.09*: Two papers accepted to Neurips'25 with one **Oral**.
 - *2025.06*: One paper accepted to ICCV 2025.
 - *2025.06*: Invited to serve as **Senior PC Member** for CIKM'25. 

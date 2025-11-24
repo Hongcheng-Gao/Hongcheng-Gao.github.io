@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>Hongcheng Gao(高鸿成) is an incoming PhD student at <a href="https://collegeai.tsinghua.edu.cn/"> College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He may receive his MSc degree in July 2026. He received his Bachelor's degree of Computer Science and Technology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. 
+<p>Hongcheng Gao(高鸿成) is an incoming PhD student at <a href="https://collegeai.tsinghua.edu.cn/"> College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He may receive his MSc degree in July 2026. He received his Bachelor's degree of Computer Science and Technology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. </p>
 
 
 

@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>Hongcheng Gao(高鸿成) is an incoming PhD student at <a href="https://collegeai.tsinghua.edu.cn/"> College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He may receive his MSc degree in July 2026. He received his Bachelor's degree of Computer Science and Technology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. </p>
+<p>Hongcheng Gao(高鸿成) is an incoming PhD student at <a href="https://collegeai.tsinghua.edu.cn/"> College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He may receive his M.S. degree in July 2026. He received his Bachelor's degree of Computer Science and Technology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. </p>
 
 His research interests include **large reasoning models**, **AI agents** and **unified models**, spanning both textual and multimodal domains (especially *spatial* tasks).
+
+*His team is looking for collaborators and interns. Please feel free to reach out.*
 
 
 # 🔥 News
@@ -62,6 +64,9 @@ Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Junfeng Fa
 
 - **Kimi-vl technical report** [\[Paper\]](https://arxiv.org/abs/2504.07491)<br>
 **Kimi Team**
+
+- **Kimi k2: Open agentic intelligence** [\[Paper\]](https://arxiv.org/abs/2507.20534)<br>
+**Kimi Team**
   
 <!-- *Under Review by **NeurIPS 2023*** -->
 
@@ -90,6 +95,14 @@ Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Z
 </td></tr></table> -->
 
 **2025**
+
+- **Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think** [\[Paper\]](https://arxiv.org/abs/2507.01467)<br>
+Ge Wu, Shen Zhang, Ruijing Shi, Shanghua Gao, Zhenyuan Chen, Lei Wang, Zhaowei Chen, **Hongcheng Gao**, Yao Tang, Jian Yang, Ming-Ming Cheng, Xiang Li. <br>
+***NeurIPS 2025***
+
+- **Guardreasoner-vl: Safeguarding vlms via reinforced reasoning** [\[Paper\]](https://arxiv.org/abs/2505.11049)<br>
+Yue Liu, Shengfang Zhai, Mingzhe Du, Yulin Chen, Tri Cao, **Hongcheng Gao**, Cheng Wang, Xinfeng Li, Kun Wang, Junfeng Fang, Jiaheng Zhang, Bryan Hooi<br>
+***NeurIPS 2025***
 
 - **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** [\[Paper\]](https://arxiv.org/abs/2410.12777)<br>
 **Hongcheng Gao\***, Tianyu Pang\*, Chao Du, Taihang Hu, Zhijie Deng, Min Lin. <br>

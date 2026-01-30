@@ -25,6 +25,7 @@ His research interests include **large reasoning models**, **AI agents** and **u
 
 
 # 🔥 News
+- *2026.1*: One papers accepted to ICLR'26.
 - *2025.11*: One papers accepted to AAAI'26.
 - *2025.09*: Two papers accepted to Neurips'25 with one **Oral**.
 - *2025.06*: One paper accepted to ICCV 2025.
@@ -62,10 +63,13 @@ Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Junfeng Fa
 - **Kimi k1. 5: Scaling Reinforcement Learning with LLMs** [\[Paper\]](https://arxiv.org/abs/2501.12599)<br>
 **Kimi Team**
 
-- **Kimi-vl technical report** [\[Paper\]](https://arxiv.org/abs/2504.07491)<br>
+- **Kimi-vl Technical Report** [\[Paper\]](https://arxiv.org/abs/2504.07491)<br>
 **Kimi Team**
 
-- **Kimi k2: Open agentic intelligence** [\[Paper\]](https://arxiv.org/abs/2507.20534)<br>
+- **Kimi k2: Open Agentic Intelligence** [\[Paper\]](https://arxiv.org/abs/2507.20534)<br>
+**Kimi Team**
+
+- **Kimi k2.5: Visual Agentic intelligence** [\[Paper\]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)<br>
 **Kimi Team**
   
 <!-- *Under Review by **NeurIPS 2023*** -->
@@ -93,6 +97,13 @@ Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Z
       <em><b>Insights</b></em>: Learnable calibration methods, which directly collect data to train PLMs on the calibration task, demonstrate a great potential in improving PLMs' calibration.<br>
     </p>
 </td></tr></table> -->
+
+**2026**
+
+- **How Far Are LLMs from Professional Poker Players? Revisiting Game-Theoretic Reasoning with Agentic Tool Use** [\[Paper\]](https://openreview.net/forum?id=vV54ShHvGi)<br>
+Minhua Lin, Enyan Dai, Hui Liu, Xianfeng Tang, Yuliang Yan, Zhenwei Dai, Jingying Zeng, Zhiwei Zhang, Fali Wang, **Hongcheng Gao**, Chen Luo, Xiang Zhang, Qi He, Suhang Wang. <br>
+***ICLR 2026***
+
 
 **2025**
 

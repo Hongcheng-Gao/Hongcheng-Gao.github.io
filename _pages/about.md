@@ -98,11 +98,14 @@ Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Z
     </p>
 </td></tr></table> -->
 
-**2025**
+**2026**
 
 - **How Far Are LLMs from Professional Poker Players? Revisiting Game-Theoretic Reasoning with Agentic Tool Use** [\[Paper\]](https://openreview.net/forum?id=vV54ShHvGi)<br>
 Minhua Lin, Enyan Dai, Hui Liu, Xianfeng Tang, Yuliang Yan, Zhenwei Dai, Jingying Zeng, Zhiwei Zhang, Fali Wang, **Hongcheng Gao**, Chen Luo, Xiang Zhang, Qi He, Suhang Wang. <br>
 ***ICLR 2026***
+
+
+**2025**
 
 - **Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think** [\[Paper\]](https://arxiv.org/abs/2507.01467)<br>
 Ge Wu, Shen Zhang, Ruijing Shi, Shanghua Gao, Zhenyuan Chen, Lei Wang, Zhaowei Chen, **Hongcheng Gao**, Yao Tang, Jian Yang, Ming-Ming Cheng, Xiang Li. <br>

@@ -25,12 +25,12 @@ His research interests include **large reasoning models**, **AI agents** and **u
 
 
 # 🔥 News
+- *2026.03*: Invited to serve as **Area Chair** for Neurips'26 and **Senior PC Member** for CIKM'26. 
 - *2026.1*: One papers accepted to ICLR'26.
 - *2025.11*: One papers accepted to AAAI'26.
 - *2025.09*: Two papers accepted to Neurips'25 with one **Oral**.
 - *2025.06*: One paper accepted to ICCV 2025.
 - *2025.06*: Invited to serve as **Senior PC Member** for CIKM'25. 
-
 - *2025.01*: Two papers accepted to ICLR 2025 with one **Oral**.
 - *2024.10*: Selected as NeurIPS 2024 **Top Reviewer**. 
 - *2024.09*: Three papers accepted to NeurIPS 2024 with **two Spotlights**.
@@ -197,6 +197,7 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 
 # 📄 Academic Services
 - Area Chiar/Senior PC Member:
+  - 2026: NeurIPS, CIKM
   - 2025: NeurIPS, CIKM
 
 - Reviewer/PC Member:

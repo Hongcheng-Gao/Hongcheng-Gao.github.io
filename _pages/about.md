@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>Hongcheng Gao (高鸿成) is a first-year Ph.D. student at the <a href="https://collegeai.tsinghua.edu.cn/">College of AI</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He received his M.S. degree in July 2026 and his B.S. degree in Computer Science and Technology from <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023.</p>
+<p>Hongcheng Gao (高鸿成) is a first-year Ph.D. student at the <a href="https://collegeai.tsinghua.edu.cn/">College of AI</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He received his M.S. degree in July 2026 in UCAS and his B.S. degree in Computer Science and Technology from <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023.</p>
 
 <p>His research interests include <strong>large reasoning models</strong>, <strong>AI agents</strong>, and <strong>unified models</strong>, spanning both textual and multimodal domains, with a particular focus on <em>spatial</em> tasks.</p>
 
@@ -215,6 +215,3 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 
 2022: NeurIPS, EMNLP, ARR. --> 
 
-
-<!-- # 🎖 Honors and Awards
-- Outstanding Graduate, HUST, 2023

@@ -46,7 +46,7 @@ redirect_from:
 <!-- - *2022.06*: &nbsp;🎉🎉 Our textual backdoor learning toolkit *OpenBackdoor* has been released. Please check out [here](https://github.com/thunlp/OpenBackdoor)! -->
 
 # 📝 Preprint&Technical Report
-\* indicates equal contribution; † indicates corresponding author.
+\* indicates equal contribution; † indicates corresponding author; ‡ indicates project lead.
 
 - **Kimi k1.5: Scaling Reinforcement Learning with LLMs** [\[Paper\]](https://arxiv.org/abs/2501.12599)<br>
 **Kimi Team**
@@ -70,13 +70,13 @@ redirect_from:
 **DataFlow Team**
 
 - **Make Code as Policy Great Again: Frontier Agents Write, Call, and Evolve Robot Tools** [\[Paper\]](https://arxiv.org/abs/2609.39018)<br>
-Shijia Ge, Alex Zhou, Jianshu Zeng, Yexing Wan, Di Wu, Zelin Zheng, Yazhe Wang, Zhiqi Jia, Xuan Shangguan, Jay Zhu, Yijun Liu, Lingyu He, Sihang Wu, Xiao He, **Hongcheng Gao**†
+Shijia Ge, Alex Zhou, Jianshu Zeng, Yexing Wan, Di Wu, Zelin Zheng, Yazhe Wang, Zhiqi Jia, Xuan Shangguan, Jay Zhu, Yijun Liu, Lingyu He, Sihang Wu, Xiao He†, **Hongcheng Gao**†
 
 - **EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?** [\[Paper\]](https://arxiv.org/abs/2609.37686)<br>
-**Hongcheng Gao**†, Hailong Qu, Yu Lei, Henghui Sun, Haoyang Li, Yipeng Wei, Naihao Xue, Xiaohan Yu, Zhuo Tao et al.
+**Hongcheng Gao**\*†, Hailong Qu\*, Yu Lei\*, Henghui Sun, Haoyang Li, Yipeng Wei, Naihao Xue, Xiaohan Yu, Zhuo Tao et al.
 
 - **Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence** [\[Paper\]](https://arxiv.org/abs/2609.35432)<br>
-**Hongcheng Gao**†, Jingjing Zhou, Zelin Zheng, Shijia Ge, Jay Zhu, Yazhe Wang, Jianshu Zeng, Xuan Shangguan, Di Wu, Lingyu He, Zhiqi Jia, Sihang Wu, Xiao He
+**Hongcheng Gao**\*‡, Jingjing Zhou\*, Zelin Zheng, Shijia Ge, Jay Zhu, Yazhe Wang, Jianshu Zeng, Xuan Shangguan, Di Wu, Lingyu He, Zhiqi Jia, Sihang Wu†, Xiao He†
 
 - **StreamOPD: A Post-Training Recipe with Spatio-Temporal Cue Gating for Streaming Video Understanding** [\[Paper\]](https://arxiv.org/abs/2608.16320)<br>
 Keming Wu, Baoyi Wang, Kaichen Zhang, Xiang An, Zuhao Yang, Sudong Wang, Haowei Zhu, Tingxuan Huang, **Hongcheng Gao**, Bin Wang
@@ -85,7 +85,7 @@ Keming Wu, Baoyi Wang, Kaichen Zhang, Xiang An, Zuhao Yang, Sudong Wang, Haowei 
 **AgentOmnia Team**
 
 - **SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks** [\[Paper\]](https://arxiv.org/abs/2606.09669)<br>
-**Hongcheng Gao**, Hailong Qu, Jingyi Tang, Jiahao Wang, Zihao Huang, Hengkang Qiao et al.
+**Hongcheng Gao**\*†, Hailong Qu\*, Jingyi Tang, Jiahao Wang, Zihao Huang, Hengkang Qiao et al.
 
 - **JoyAI-Image: Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation** [\[Paper\]](https://arxiv.org/abs/2605.04128)<br>
 Joy Team
@@ -101,7 +101,7 @@ Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Junfeng Fa
 
 
 # 📝 Publications
-\* indicates equal contribution; † indicates corresponding author.
+\* indicates equal contribution; † indicates corresponding author; ‡ indicates project lead.
 
 **2026**
 
@@ -126,7 +126,7 @@ Minhua Lin, Enyan Dai, Hui Liu, Xianfeng Tang, Yuliang Yan, Zhenwei Dai, Jingyin
 ***ICLR 2026***
 
 - **Pixels, Patterns, but No Poetry: To See the World Like Humans** [\[Paper\]](https://arxiv.org/abs/2507.16863)<br>
-**Hongcheng Gao**, Zihao Huang, Jingyi Tang, Lin Xu, Xinhao Li, Haoyang Li, Yue Liu, Minhua Lin, Xinlong Yang, Taihang Hu, Ge Wu, Balong Bi, Hongyu Chen, Olive Huang, Wentao Zhang<br>
+**Hongcheng Gao**\*, Zihao Huang\*, Jingyi Tang\*, Lin Xu, Xinhao Li, Haoyang Li, Yue Liu, Minhua Lin, Xinlong Yang, Taihang Hu, Ge Wu, Balong Bi, Hongyu Chen, Olive Huang, Wentao Zhang<br>
 ***ICML 2026***
 
 - **MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling** [\[Paper\]](https://arxiv.org/abs/2602.13332)<br>
@@ -136,7 +136,7 @@ Wenjie Li, Yujie Zhang, Haoran Sun, Xingqi He, **Hongcheng Gao**, Chenglong Ma, 
 **2025**
 
 - **FlowReasoner: Reinforcing Query-Level Meta-Agents** [\[Paper\]](https://arxiv.org/abs/2504.15257)<br>
-**Hongcheng Gao**, Yue Liu, Yufei He, Longxu Dou, Chao Du, Zhijie Deng, Bryan Hooi, Min Lin, Tianyu Pang.<br>
+**Hongcheng Gao**\*, Yue Liu\*, Yufei He, Longxu Dou, Chao Du, Zhijie Deng, Bryan Hooi, Min Lin, Tianyu Pang.<br>
 ***ICML 2025 Workshop***
 
 - **Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think** [\[Paper\]](https://arxiv.org/abs/2507.01467)<br>
@@ -148,7 +148,7 @@ Yue Liu, Shengfang Zhai, Mingzhe Du, Yulin Chen, Tri Cao, **Hongcheng Gao**, Che
 ***NeurIPS 2025***
 
 - **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** [\[Paper\]](https://arxiv.org/abs/2410.12777)<br>
-**Hongcheng Gao\***, Tianyu Pang\*, Chao Du, Taihang Hu, Zhijie Deng, Min Lin. <br>
+**Hongcheng Gao**\*, Tianyu Pang\*, Chao Du, Taihang Hu, Zhijie Deng, Min Lin. <br>
 ***ICCV 2025***
 
 - **Spider 2.0: Evaluating language models on real-world enterprise text-to-sql workflows** [\[Paper\]](https://arxiv.org/abs/2411.07763)<br>
@@ -166,7 +166,7 @@ Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, **Hongcheng Gao** 
 ***NeurIPS 2024 (Spotlight)***
 
 - **Leveraging Catastrophic Forgetting to Develop Safe Diffusion Models against Malicious Finetuning** [\[Paper\]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d0949cbcec31c09431610553a284f94a-Abstract-Conference.html)<br>
-Jiadong Pan\*, **Hongcheng Gao\***, Zongyu Wu, Tanghang Hu, Li Su, Qingming Huang, Liang Li. <br>
+Jiadong Pan\*, **Hongcheng Gao**\*, Zongyu Wu, Tanghang Hu, Li Su, Qingming Huang, Liang Li. <br>
 ***NeurIPS 2024 (Spotlight)***
 
 - **Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis** [\[Paper\]](https://arxiv.org/abs/2411.07132)<br>
@@ -182,11 +182,11 @@ Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Yilong Xu,
 *Findings of **EMNLP 2024***.<br>
 
 - **Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model** [\[Paper\]](https://arxiv.org/abs/2305.16617)<br>
-Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang. <br>
+Zhijie Deng\*, **Hongcheng Gao**\*, Yibo Miao, Hao Zhang. <br>
 *Findings of **ACL 2024***.<br>
 
 - **Universal Prompt Optimizer for Safe Text-to-Image Generation** [\[Paper\]](https://arxiv.org/abs/2402.10882)<br>
-Zongyu Wu\*, **Hongcheng Gao\***, Yueze Wang, Xiang Zhang, Suhang Wang. <br>
+Zongyu Wu\*, **Hongcheng Gao**\*, Yueze Wang, Xiang Zhang, Suhang Wang. <br>
 ***NAACL 2024***
 
 - **Generative Pretraining in Multimodality** [\[Paper\]](https://arxiv.org/abs/2307.05222)<br>
@@ -200,13 +200,13 @@ Lifan Yuan, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Fangyuan Zou, Xingyi Chen
 ***NeurIPS 2023 (D&B Track)***
 
 - **From Adversarial Arms Race to Model-centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework** [\[Paper\]](https://arxiv.org/abs/2305.18503)<br>
-Yangyi Chen\*, **Hongcheng Gao\***, Ganqu Cui\*, Lifan Yuan, Dehan Kong, Hanlu Wu, Ning Shi, Bo Yuan, Longtao Huang, Hui Xue, Zhiyuan Liu, Maosong Sun, Heng Ji. <br>
+Yangyi Chen\*, **Hongcheng Gao**\*, Ganqu Cui\*, Lifan Yuan, Dehan Kong, Hanlu Wu, Ning Shi, Bo Yuan, Longtao Huang, Hui Xue, Zhiyuan Liu, Maosong Sun, Heng Ji. <br>
 *Findings of **ACL 2023***.<br>
 
 **2022**
 
 - **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP** [\[Paper\]](https://arxiv.org/abs/2210.10683)<br>
-Yangyi Chen\*, **Hongcheng Gao\***, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun. <br>
+Yangyi Chen\*, **Hongcheng Gao**\*, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun. <br>
 ***EMNLP 2022***.<br>
 
 - **Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks** [\[Paper\]](https://arxiv.org/abs/2110.08247)<br>
